@@ -1,0 +1,687 @@
+account_id,account_name,account_creation_date,clean_account_industry,billing_country,billing_state,current_account_segment,owner_id
+0012T00001koQjfryU,picked swims dodecahedron corporation,2023-03-29 14:25:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhYPOQA3
+0012T000013qYC86e5,missus school,2019-10-04 21:51:14+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-GBL,0052T00000AIeSmQAL
+0012T00001OiBCjCUY,nap inc,2022-05-06 16:02:28+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000DhjEuQAJ
+0012T000016Jb9iISJ,ten school,2023-06-22 05:50:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CDyooQAD
+0012T00001oVHnyMas,asleep bank mastodon,2021-01-04 07:45:51+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0PtQAL
+001f400000PBlFRAA1,sails,2018-05-18 22:54:47+00:00,06 - Wholesale,US,GA,AMER-GBL,0052T00000DAF5rQAH
+0012T00001BJGrJGQJ,hopeful visions roadrunner incorporated,2019-10-04 21:51:36+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000CBYLbQAP
+0012T00001ZUX1YQRa,anteater platypus pebble co,2020-05-28 04:50:59+00:00,"01 - Agriculture, Forestry, Fishing, Hunting",CA,ON,AMER-MM,0052T00000CAexUQAT
+0012T00001xrR4iJdd,ichthyosaurus co,2019-10-04 21:43:51+00:00,08 - Transportation,US,MA,AMER-GBL,0052T00000DAF5rQAH
+0012T00001mWmQ6WzR,says slipped quarter co,2020-06-09 03:25:11+00:00,Missing NAICS,US,GA,AMER-MM-CP,0052T00000AIcY4QAL
+0012T00001PY4YZQa3,king,2021-04-19 01:56:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB1WlQAL
+0012T00001tkNeyJ3N,stung fun co,2021-11-05 16:57:30+00:00,"12 - Professional, Scientific, Technical Services",US,,EMEA-ENT,0052T00000CB9JVQA1
+0012T00001bsFZzIFa,angelfish their inc,2019-10-04 21:43:03+00:00,"12 - Professional, Scientific, Technical Services",IN,,ROW,0052T00000DhYBaQAN
+0012T000010MRlXhnI,fish smoke goldfinch,2019-10-04 21:41:24+00:00,"10 - Finance, Insurance",US,PA,AMER-MM-CP,0052T00000DhYQLQA3
+0012T00001xAM7y9CN,minnesota woodchuck university,2019-10-04 21:48:31+00:00,07 - Retail,US,NY,AMER-MM-CP,0052T00000DZO9eQAH
+0012T00001EtqPWmMY,ringman polka inc,2023-07-03 21:01:28+00:00,18a - Restaurants,US,CA,AMER-ENT-CP,0052T00000CjnlSQAR
+0012T00001j9cyBnou,princess down corp,2021-06-03 23:41:29+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM,0052T00000CjubVQAR
+0012T00001xSJn3rOt,sly rook tears corporation,2019-10-04 21:42:47+00:00,07 - Retail,US,,AMER-ENT-CP,0052T00000DrBsfQAF
+0012T000013coNIiOJ,feel climbing alive school,2022-09-09 18:11:48+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM,0052T00000DZZNmQAP
+0012T00001VruB97kW,louisiana fatal crows school,2023-06-19 21:31:29+00:00,Missing NAICS,US,,AMER-MM,0052T00000CjubVQAR
+0012T00001gVa5NbS2,rattlesnake toll corporation,2019-10-04 21:42:11+00:00,03 - Utilities (22),CA,ON,AMER-ENT,0052T00000Dhj1WQAR
+0012T00001Fjr6AJ63,plainly bucks blouse,2021-06-01 06:32:04+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000AIXcGQAX
+0012T00001vTowJFqW,peep co,2020-07-20 21:02:46+00:00,"12 - Professional, Scientific, Technical Services",US,TX,AMER-MM-CP,0052T00000AIXbhQAH
+0012T00001Gjs1nUTG,overalls jack incorporated,2020-10-06 04:22:34+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000CAnS6QAL
+0012T00001uVU9NhAR,quick parallelogram incorporated,2022-07-11 15:07:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CAexUQAT
+0012T00001Ao1pWQEP,fye corp,2021-06-17 01:52:28+00:00,"18b - Hotels, Casinos, Accommodations",US,,AMER-MM-CP,0052T00000D9v6pQAB
+0012T00001ERDgaS53,doubt leaves inc,2021-04-15 16:02:29+00:00,Missing NAICS,US,,AMER-MM,0052T00000D9qkpQAB
+0012T00001BgEswhPI,storm oyster corp,2019-10-04 21:42:38+00:00,04 - Construction,US,,AMER-ENT-CP,0052T00000CBLgHQAX
+0012T00001VRkOZd6h,sees corp,2019-10-04 21:56:52+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000CB8tDQAT
+0012T00001u2NHtA0f,hurricane wondered wiping inc,2019-10-04 21:47:29+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000DtNUpQAN
+0012T00001OlxBlo8a,sings jay back school,2019-10-04 21:45:09+00:00,05 - General Manufacturing (Catch-all),US,MI,AMER-MM-CP,0052T00000DZOA3QAP
+0012T00001bX2wUnX1,legs corp,2020-05-28 04:52:45+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",CA,ON,AMER-GBL,0052T00000DYWIbQAP
+0012T00001iQI1FQbG,jersey stares get university,2019-08-22 14:42:26+00:00,06 - Wholesale,US,,AMER-MM-CP,0052T00000CB0OgQAL
+0012T00001UxJS3ptP,sit goin inc,2021-11-10 16:14:56+00:00,16b - Small Medical Offices,US,,AMER-MM-CP,0052T00000CB0PFQA1
+0012T00001tiXsKJlH,sheep lemon,2023-06-13 00:51:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBZGwQAP
+0012T00001U8XSn6xa,polygon,2020-08-12 23:06:29+00:00,"12 - Professional, Scientific, Technical Services",US,NY,AMER-MM-CP,0052T00000CAewgQAD
+0012T00001S3CQU1CT,furniture hop inc,2019-10-05 02:37:02+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,MN,AMER-ENT-SL,0052T00000DhYPIQA3
+0012T00001Ovk74VrG,ocean university,2019-10-04 21:40:56+00:00,"12 - Professional, Scientific, Technical Services",US,UT,AMER-MM-CP,0052T00000CBYGgQAP
+0012T00001TySx2qDo,sad corporation,2019-10-04 21:42:51+00:00,05 - General Manufacturing (Catch-all),US,,AMER-ENT-CP,0052T00000AIix5QAD
+0012T00001xY5WSXIF,worm corporation,2021-11-04 00:54:14+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000CBL5aQAH
+0012T00001zJULHbOV,octagon strayed aardvark,2023-06-19 13:11:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DUfXFQA1
+0012T00001o0TopJ2G,cou georgia,2023-05-03 20:11:29+00:00,05 - General Manufacturing (Catch-all),US,IL,AMER-MM-CP,0052T00000DhYQGQA3
+0012T00001lToWBtBJ,sister,2020-04-06 16:21:37+00:00,"01 - Agriculture, Forestry, Fishing, Hunting",US,CA,AMER-MM-CP,0052T00000DrKitQAF
+0012T00001G9jVBpUK,flashlight curtain rattlesnake,2023-05-23 10:41:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DUfW7QAL
+0012T00001q3FDMUL7,winds corporation,2019-10-04 21:39:15+00:00,16 - Health Care (Catch-all),US,PA,AMER-GBL,0052T00000DYzemQAD
+0012T00001vCAIUV3P,quokka,2019-10-04 21:44:25+00:00,04 - Construction,CA,ON,AMER-ENT-CP,005f4000004YlAmAAK
+0012T00001VTLhbdO9,vulture,2019-10-04 21:57:33+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,TN,AMER-MM-SL,0052T00000CAnSGQA1
+0012T00001M0MQ6IAn,stubbed,2019-10-04 21:44:17+00:00,"12 - Professional, Scientific, Technical Services",US,MO,AMER-MM-CP,0052T00000DhYOyQAN
+0012T00001Q5B9804V,echoed school,2019-10-04 21:57:32+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,AMER-ENT-SL,0052T00000CDyp8QAD
+0012T00001LJlwTMRD,ninety school,2018-02-22 18:55:03+00:00,"09 - Software, Telecommunications, Publishing",US,,ROW,0052T00000CT6RsQAL
+0012T00001VpkYq5hO,action learn doddles,2019-10-04 21:40:48+00:00,13 - Education - Elementary & Secondary Schools,US,AZ,AMER-MM-SL,0052T00000CB0PUQA1
+0012T00001yYFVh2a6,japan upward corp,2021-05-19 15:37:52+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000CAzsVQAT
+0012T00001mqDJHyKj,haunted sugarplums chamber school,2020-10-15 05:27:29+00:00,18a - Restaurants,GB,,EMEA-MM,0052T00000CArVdQAL
+0012T00001wVnH8FzR,died passed after corp,2023-06-15 05:12:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhYQQQA3
+0012T00001vMK6cXF5,story dip co,2019-10-04 21:52:43+00:00,21 - Other,US,SC,AMER-MM,0052T00000CAexUQAT
+0012T00001SFBGdVE7,peddler fawn tone co,2019-10-04 21:49:24+00:00,21 - Other,US,NY,AMER-MM-CP,0052T00000DrLZJQA3
+0012T000015xfOwuEl,rained corporation,2023-06-22 04:01:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DAT81QAH
+0012T00001DaOUQhuE,bear tutu school,2021-05-13 18:24:28+00:00,03 - Utilities (22),US,,AMER-MM-CP,0052T00000Dhj1lQAB
+0012T00001A2r22OYP,merry upon corporation,2020-08-10 23:24:19+00:00,12a - Architectural & Engineering Services,US,WA,AMER-MM-CP,0052T00000DYWIgQAP
+0012T00001oSVMFTAF,banana why,2022-10-09 21:09:29+00:00,07 - Retail,US,FL,AMER-MM-CP,0052T00000CBAzDQAX
+0012T00001qp0y4jan,tired university,2021-06-18 16:27:45+00:00,05a - Food and Beverage Manufacturing,US,,AMER-MM-CP,0052T00000DhYQLQA3
+0012T00001AlSa3bo1,shut co,2019-10-04 21:46:37+00:00,"12 - Professional, Scientific, Technical Services",US,,CHANNEL,0052T00000DAbvuQAD
+0012T00001ZfNnvf0q,cross university,2023-06-25 20:51:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CAexUQAT
+0012T00001abf67N05,critters parasaurolophus watermelons corporation,2023-06-21 23:41:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CAexFQAT
+0012T00001V9W2V76l,rooster firebells incorporated,2019-10-20 18:44:55+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",CA,ON,AMER-MM,0052T00000CAexUQAT
+0012T00001mIr7T6oD,started maze wondered,2020-02-06 02:27:15+00:00,05 - General Manufacturing (Catch-all),DE,,EMEA-ENT,0052T00000DZOvYQAX
+0012T00001ZJxStJqZ,chin sun hexagon corp,2019-10-04 22:11:17+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,DC,EMEA,0052T00000DZOvYQAX
+0012T00001JBjFYaZF,worries batter praising,2019-10-04 21:42:48+00:00,06 - Wholesale,US,NJ,AMER-MM-CP,0052T00000Di9fwQAB
+0012T00001qxRRXoeX,darned fabrosaurus half,2021-03-18 05:47:23+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000CDyooQAD
+0012T00001z1pctGpD,botter shrimp television,2020-06-17 01:58:56+00:00,08 - Transportation,US,CO,AMER-MM-CP,0052T00000AIY61QAH
+0012T00001j7tDN6HI,coyote bully incorporated,2023-06-19 17:31:29+00:00,06 - Wholesale,US,TX,AMER-MM-CP,0052T00000CBYFnQAP
+0012T00001ZZ6qhILo,evil created university,2019-10-04 21:49:32+00:00,"11 - Real Estate, Rental, Leasing",US,VA,AMER-MM-CP,0052T00000CBL5aQAH
+0012T000010CfQqwxC,cross inc,2023-06-16 17:24:46+00:00,16b - Small Medical Offices,US,IL,AMER-MM-CP,0052T00000DhZPTQA3
+0012T00001CYbv7XXO,witches incorporated,2019-10-04 21:53:58+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,AR,AMER-MM-SL,0052T00000Dr9w1QAB
+0012T0000148Inyiw5,spirit shook university,2020-08-31 06:31:53+00:00,"12 - Professional, Scientific, Technical Services",DE,,EMEA-MM,0052T00000Dr8SUQAZ
+0012T00001ZtzEg520,other shake co,2019-10-04 21:42:16+00:00,04 - Construction,US,TX,AMER-ENT-CP,0052T00000CjopQQAR
+0012T00001TaHE09D1,hollow cows ringman corporation,2019-10-04 21:53:47+00:00,13 - Education - Elementary & Secondary Schools,US,NY,AMER-MM-SL,0052T00000Di3WyQAJ
+0012T00001moFw0dqY,end pyramid corporation,2023-03-15 14:24:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBL5zQAH
+0012T00001FYiRxFhZ,brain inc,2020-03-20 16:47:46+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,CA,AMER-MM-SL,0052T00000DhYPmQAN
+0012T00001CXWir60o,tanker violet change,2023-06-20 22:49:28+00:00,"12 - Professional, Scientific, Technical Services",US,PA,AMER-MM-CP,0052T00000DhrdXQAR
+0012T00001WKz260Xz,measure,2020-08-26 07:59:32+00:00,18a - Restaurants,US,CO,AMER-MM-CP,0052T00000AIY61QAH
+0012T000013ZWvFNOH,talk seated trash co,2020-05-12 01:34:36+00:00,08 - Transportation,US,MI,AMER-MM-CP,0052T00000CBL5qQAH
+0012T00001G6WKzf6O,alpaca edmontosaurus incorporated,2021-03-03 04:42:50+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000Ck0XnQAJ
+0012T00001hSqB9HGx,laugh jan university,2019-10-04 21:56:38+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-ENT-SL,0052T00000DhYPcQAN
+0012T00001wqSntlFj,bun inside last school,2019-10-04 21:38:33+00:00,"18b - Hotels, Casinos, Accommodations",US,TX,AMER-GBL,005f4000002HlaZAAS
+001f40000170aMLAAY,valentines mats university,2019-07-29 18:43:12+00:00,18a - Restaurants,US,CA,AMER-GBL,0052T00000AIeSmQAL
+0012T00001CRefRAHz,de owls corporation,2021-07-16 17:35:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBL5qQAH
+0012T000015BSkuF4x,yours stayed swims corp,2020-08-13 17:47:03+00:00,12a - Architectural & Engineering Services,US,MA,AMER-MM-CP,0052T00000CAknkQAD
+0012T00001IhgIJhU2,bouquet cowboys auburn inc,2020-04-24 14:44:05+00:00,06 - Wholesale,US,TX,AMER-MM-CP,0052T00000CAovEQAT
+0012T000010AgjnDwC,them recycle school,2019-10-04 21:53:45+00:00,15 - Education - Other (Catch-all),US,VA,AMER-MM-SL,0052T00000DYlR4QAL
+0012T00001P3a2YVot,millipede incorporated,2019-10-04 21:57:35+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,ME,AMER-MM-SL,0052T00000DUJ7SQAX
+0012T000016bKwglF7,praise,2021-05-21 19:03:29+00:00,05b - Medical Manufacturing and Laboratories,US,,AMER-MM-CP,0052T00000DUkZRQA1
+0012T00001jtwQh2mh,promised limpet,2020-01-28 21:10:40+00:00,05 - General Manufacturing (Catch-all),CA,ON,AMER-ENT-CP,0052T00000DYcZGQA1
+0012T00001oIYKCAGB,snow incorporated,2019-10-04 21:54:41+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,SC,AMER-ENT-CP,0052T00000CBShvQAH
+0012T00001Vkb0RHWF,dress viceroy neighs,2021-02-01 06:13:59+00:00,22 - Waste Management,US,CA,AMER-MM-CP,0052T00000DhuLCQAZ
+0012T000017q1tPsUP,different milked,2021-02-04 06:15:23+00:00,12b - Facilities Services,US,OK,AMER-MM-CP,0052T00000CBYLRQA5
+0012T000012WEl95VQ,needless,2021-02-08 19:09:54+00:00,"10 - Finance, Insurance",US,CA,AMER-MM-CP,0052T00000CB1WlQAL
+0012T00001PL6MZSP1,suck spirit toe inc,2021-07-21 04:20:32+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CArVxQAL
+0012T000016mgHTN6x,fox gatitos corporation,2019-10-04 21:44:25+00:00,07 - Retail,US,IN,AMER-MM-CP,0052T00000CBShHQAX
+0012T00001LljeurFu,wash bats salmon university,2020-08-12 02:12:44+00:00,"09 - Software, Telecommunications, Publishing",US,CA,AMER-MM-CP,0052T00000DchfjQAB
+0012T00001EVuxsNWa,lay store flat,2019-10-04 21:42:17+00:00,12b - Facilities Services,US,,AMER-MM-CP,0052T00000CBYFnQAP
+0012T00001GiGG1Zxh,touched christened walks incorporated,2023-06-19 20:41:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhYPOQA3
+0012T00001MSiaRuoS,spake moans co,2019-10-04 21:56:20+00:00,19a - Religious Organizations,US,,AMER-MM-CP,0052T00000CBL5zQAH
+001f400000gqHd3AAE,greyhound rolled pass university,2018-12-03 23:27:15+00:00,21 - Other,US,CO,AMER-MM-CP,0052T00000CBZ2fQAH
+0012T00001GSZBOnpV,blow since belly incorporated,2020-10-23 16:30:49+00:00,05c - Automotive Manufacturing,US,MI,AMER-MM-CP,0052T00000DUkZRQA1
+0012T00001gvtDFCNQ,comes nap corp,2019-10-04 21:56:42+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-FED,0052T00000CBAzmQAH
+0012T00001TJcYoUFq,frightened,2020-12-17 20:51:41+00:00,"18b - Hotels, Casinos, Accommodations",US,,AMER-MM,0052T00000DZZNmQAP
+0012T00001dctCoGMR,necklace school,2019-10-04 21:46:14+00:00,"12 - Professional, Scientific, Technical Services",US,,EMEA-ENT,0052T00000CB9JVQA1
+0012T000011o4J6zAZ,sye whether corp,2019-10-04 21:07:27+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,MD,AMER-ENT-SL,0052T00000DZCNeQAP
+0012T00001Am7dKXc6,princess co,2019-10-04 21:54:41+00:00,16 - Health Care (Catch-all),US,NC,AMER-GBL,005f4000002HlaZAAS
+0012T000014DRw2jII,running corporation,2023-06-22 14:11:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000DZZNmQAP
+0012T00001kUTCZVzR,lurk holiday,2023-05-21 20:31:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DYSCFQA5
+0012T00001GZT76rba,bore despise drip corp,2023-06-15 05:11:29+00:00,Missing NAICS,US,,AMER-MM,0052T00000CAexUQAT
+0012T00001qtYhsKdy,curtain asleep inc,2019-10-04 21:48:15+00:00,"10 - Finance, Insurance",US,AR,AMER-ENT-CP,0052T00000DYcZfQAL
+0012T000017ZBTONIc,bullfrog,2021-06-30 05:29:57+00:00,Missing NAICS,US,AL,AMER-MM-CP,0052T00000CT6RsQAL
+0012T00001WKDTtwD0,leaps peep inc,2023-05-12 15:30:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CAqdvQAD
+0012T00001P3YxZtGL,blossoms shepherd corporation,2019-10-04 21:55:53+00:00,18a - Restaurants,US,,AMER-MM-CP,0052T00000CBYLbQAP
+0012T00001uykGT3J5,egypt redbreast incorporated,2022-01-13 11:38:29+00:00,20a - Police & Jails,US,MD,AMER-MM-SL,0052T00000CjnlSQAR
+0012T00001ZXQKCiqb,energy verdict co,2023-07-06 06:01:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DZO9eQAH
+0012T00001M2EH0KwF,coach inc,2020-06-30 22:10:21+00:00,"12 - Professional, Scientific, Technical Services",GB,,EMEA-MM,0052T00000DZCNjQAP
+0012T00001qB9ENKln,cowslips behind walla incorporated,2023-06-25 22:51:28+00:00,18a - Restaurants,US,HI,AMER-MM-CP,0052T00000DrKhlQAF
+0012T00001HxAi3c4o,hedgehog meadows our inc,2023-06-27 16:31:29+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,ROW,0052T00000Dr8SAQAZ
+0012T00001TKzGn7bh,driven corp,2022-01-15 01:04:10+00:00,"18b - Hotels, Casinos, Accommodations",US,,AMER-GBL,0052T00000DYWIbQAP
+0012T00001WalDjKbh,butte kayne,2023-04-25 00:31:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0NxQAL
+0012T00001FuHtukDb,nose,2021-06-03 22:51:29+00:00,12a - Architectural & Engineering Services,US,,AMER-MM,0052T00000DZZNmQAP
+0012T00001sD2z1ZUR,eyelash death chief,2020-08-17 04:00:19+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,DC,AMER-FED,0052T00000CBAzmQAH
+0012T00001HjnsLdyV,orange lifted,2019-10-04 21:53:36+00:00,13 - Education - Elementary & Secondary Schools,US,CA,AMER-ENT-SL,0052T00000DAbvQQAT
+0012T00001UiAtAFBZ,began plate began corp,2022-09-15 17:10:24+00:00,"10 - Finance, Insurance",US,,AMER-MM-CP,0052T00000CjnlSQAR
+0012T00001S6Lfjp9Q,cry giganotosaurus,2023-04-05 21:52:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DUI14QAH
+0012T000018n5eINjo,with,2020-03-12 13:09:08+00:00,07 - Retail,US,PA,AMER-MM-CP,0052T00000DZOw7QAH
+0012T00001Y1fHpxsH,turkey exclaim thus,2022-10-01 21:25:28+00:00,04 - Construction,US,VA,AMER-MM-CP,0052T00000DUfWIQA1
+0012T00001qqfT1bGq,gonna corporation,2023-06-17 13:31:36+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DrKgdQAF
+0012T00001PiaNeNpy,rotten cards death inc,2019-10-04 21:52:31+00:00,"09 - Software, Telecommunications, Publishing",US,,AMER-MM-CP,0052T00000DYcb2QAD
+001f400000C2ll0AAB,wiping scare girls,2017-12-14 18:59:00+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,NY,AMER-ENT-SL,0052T00000DZCNeQAP
+0012T0000156nxS3av,meatballs crawled,2023-06-22 12:51:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000AIR4mQAH
+0012T00001vPERovfC,jay pointed jesus school,2023-07-03 15:10:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhYQ6QAN
+0012T000017olUQ0si,verk corporation,2023-06-25 14:32:29+00:00,"10 - Finance, Insurance",US,,LATAM,0052T00000DUfXFQA1
+0012T00001qjYRdNC8,planet stubbed distressful,2023-05-14 12:30:28+00:00,04 - Construction,US,NC,AMER-MM-CP,0052T00000DiAZGQA3
+0012T00001b43JkWQI,stayed inc,2020-06-12 23:47:14+00:00,05 - General Manufacturing (Catch-all),US,IN,AMER-MM-CP,0052T00000DhjMFQAZ
+0012T00001rgwST3yJ,coming inc,2019-10-04 21:45:16+00:00,05 - General Manufacturing (Catch-all),US,SC,AMER-ENT-CP,0052T00000CBShvQAH
+0012T000018o9T7T3f,toll,2019-10-04 21:56:19+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,UT,AMER-GBL,0052T00000DYWIbQAP
+0012T00001Vuzo1Eom,surely armadillo unicorn,2021-03-23 00:41:16+00:00,12a - Architectural & Engineering Services,US,,AMER-MM-CP,0052T00000DZNiiQAH
+0012T00001pjwERH9e,dead athlete incorporated,2023-07-11 04:30:28+00:00,24 - Security Providers/Integrators,US,NC,AMER-MM-CP,0052T00000DiAZGQA3
+0012T0000125ehRZy6,fishing burning coming co,2019-10-04 21:42:51+00:00,05 - General Manufacturing (Catch-all),US,WI,AMER-MM-CP,0052T00000CAewRQAT
+0012T00001DMlhlJcc,need,2022-07-17 02:34:03+00:00,16d - Assisted Living Facilities,US,,AMER-MM-CP,0052T00000DUlGVQA1
+0012T00001caaQev9S,remember sandman fisherman school,2021-06-04 01:43:35+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,AMER-MM,0052T00000D9qkpQAB
+0012T00001pVR1mneT,earthworm caught,2019-10-04 21:40:19+00:00,20a - Police & Jails,US,TX,AMER-MM-SL,0052T00000CApHKQA1
+0012T00001P48KGaXS,unrolls ping marbles university,2023-07-02 16:20:28+00:00,16b - Small Medical Offices,US,TN,AMER-MM-CP,0052T00000D9v6pQAB
+0012T00001McOWtnjo,blossoms tornado incorporated,2021-11-23 01:14:18+00:00,18 - Hospitality Catch-all,US,,AMER-MM-CP,0052T00000Di9fwQAB
+0012T00001rGDWY9Nj,olympics,2020-04-11 10:23:06+00:00,04 - Construction,US,TX,AMER-MM-CP,0052T00000AIXbhQAH
+0012T00001qRYdH8uU,sixth wish grizzly corporation,2023-07-06 15:21:28+00:00,18a - Restaurants,US,FL,AMER-MM-CP,0052T00000CB0NxQAL
+0012T00001jLy9yatT,over trouble tap,2020-01-03 12:59:14+00:00,"12 - Professional, Scientific, Technical Services",US,IL,AMER-MM-CP,0052T00000CAovFQAT
+0012T00001XoSRnw0r,kansas nightingale hiding university,2023-06-16 03:40:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0NxQAL
+0012T00001veaRBotq,tired agouti pumpkins university,2019-10-04 21:50:22+00:00,12a - Architectural & Engineering Services,ES,,EMEA-ENT,0052T00000DZOvYQAX
+0012T00001hmIrnAm7,show corp,2021-07-21 07:19:29+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000DhjMFQAZ
+0012T00001mpmD4TZm,koi therein treated school,2021-01-06 03:54:19+00:00,"12 - Professional, Scientific, Technical Services",GB,,EMEA-MM,0052T00000DUkYsQAL
+001f400000WkqASAAZ,blood join mama,2018-09-04 22:57:14+00:00,16 - Health Care (Catch-all),US,CO,AMER-GBL,005f4000004VkViAAK
+0012T00001QqIbL2UX,blackberries hay otter,2019-10-04 21:57:35+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,NC,AMER-ENT-SL,0052T00000CAovdQAD
+0012T00001ukoBLhIz,some,2019-10-04 21:39:32+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,WA,AMER-ENT-SL,0052T00000DUI1sQAH
+0012T00001Zgiltwc4,haiku jolly timeline university,2019-10-05 02:38:17+00:00,13 - Education - Elementary & Secondary Schools,US,,AMER-MM-SL,0052T00000DAo58QAD
+0012T00001R7Otgh0h,include corporation,2019-10-04 21:45:24+00:00,06 - Wholesale,US,AZ,AMER-MM-CP,0052T00000Di3bKQAR
+0012T00001O0emOcD2,fye alice touched corp,2023-04-26 18:50:28+00:00,05a - Food and Beverage Manufacturing,US,OR,AMER-MM-CP,0052T00000DtNJcQAN
+0012T00001wLNphMur,graced corporation,2019-10-04 21:55:58+00:00,18a - Restaurants,US,,AMER-GBL,0052T00000DAWOvQAP
+0012T00001AsTE9WpK,puffin here likeness co,2020-11-18 16:44:44+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NC,AMER-MM-CP,0052T00000DiAZGQA3
+0012T00001cSiIEqlR,spent president bow incorporated,2020-05-12 01:33:48+00:00,07 - Retail,US,FL,AMER-MM-CP,0052T00000Di3WoQAJ
+0012T00001T89rrUM3,sheet walrus ate incorporated,2023-06-16 00:21:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CjubVQAR
+0012T00001HSwomy97,refreshing taller,2019-10-04 21:52:09+00:00,"11 - Real Estate, Rental, Leasing",US,AL,AMER-MM-CP,0052T00000DhYPDQA3
+0012T00001bARqclQF,neighed inc,2021-11-23 01:11:55+00:00,18 - Hospitality Catch-all,US,,AMER-MM-CP,0052T00000DAo5NQAT
+0012T000010jzh99QQ,lilt corp,2019-10-04 21:49:46+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,CA,AMER-FED,0052T00000CBAzmQAH
+0012T00001RJ4QgkJe,end impatient dream co,2019-10-04 21:45:18+00:00,"12 - Professional, Scientific, Technical Services",US,LA,AMER-ENT-CP,0052T00000DrBtxQAF
+0012T00001X3eUu9Ol,pail incorporated,2023-03-20 19:17:28+00:00,18a - Restaurants,US,TX,AMER-MM-CP,0052T00000CB0PKQA1
+0012T00001QWa0xe5P,woman,2019-10-04 21:52:50+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000CB8tSQAT
+0012T00001C4b8PsPe,viceroy,2023-06-20 14:25:10+00:00,12a - Architectural & Engineering Services,US,CA,AMER-MM-CP,0052T00000DrKjIQAV
+0012T00001vzbSWf7H,sailed bank diplodocus corporation,2021-04-13 17:29:57+00:00,Missing NAICS,US,,ROW,0052T00000CT6RsQAL
+0012T00001Qy9tPkvZ,grave john dead co,2019-10-20 18:34:22+00:00,"11 - Real Estate, Rental, Leasing",US,FL,AMER-MM-CP,0052T00000DYcb7QAD
+0012T000010EATpedD,shouted lucky university,2020-06-03 06:23:40+00:00,08 - Transportation,US,NM,AMER-MM-CP,0052T00000AIXcaQAH
+0012T00001lsm0l6jo,snug incorporated,2023-06-20 01:30:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0PjQAL
+0012T00001d2YGQ2Dk,zebra corp,2021-12-26 18:30:29+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000DhrdIQAR
+0012T00001FfT2ZMcU,ladies,2021-01-20 19:40:31+00:00,18a - Restaurants,US,DC,AMER-MM-CP,0052T00000DhrcPQAR
+0012T00001GHgnUObk,fainted,2019-10-04 22:11:09+00:00,16b - Small Medical Offices,US,NY,AMER-MM-CP,0052T00000CBShbQAH
+0012T000010Tb1qtgH,springing happen corp,2019-10-04 21:54:31+00:00,16 - Health Care (Catch-all),US,OR,AMER-ENT-CP,0052T00000AIXb8QAH
+0012T00001hpGcrgu3,grave,2022-07-25 02:07:53+00:00,"16e - Ambulances, Blood Banks, etc.",US,,AMER-MM-CP,0052T00000CBShRQAX
+0012T00001w1KNgruC,its school,2020-10-02 22:59:44+00:00,"12 - Professional, Scientific, Technical Services",US,MI,AMER-ENT-CP,0052T00000DYm1WQAT
+0012T00001C4swFRzW,toledo marry corporation,2020-02-07 21:37:59+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,DC,AMER-FED,0052T00000CBAzmQAH
+0012T00001yr14FI0Z,milked,2019-06-05 20:53:41+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",CA,ON,AMER-ENT,0052T00000CBLfnQAH
+0012T000016bZV90BO,candle hippodoodles inc,2019-10-04 21:39:26+00:00,03 - Utilities (22),US,,AMER-MM-SL,0052T00000DhlqvQAB
+0012T00001yODQHC6Q,night university,2022-07-23 05:51:21+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBShgQAH
+0012T00001gaCcXzl3,pork field,2022-01-15 01:03:54+00:00,16a - Hospitals/Medical Centers,US,,AMER-GBL,005f4000000OfmGAAS
+0012T00001elHgzdMP,armadillo corp,2021-03-04 02:32:07+00:00,06 - Wholesale,US,,AMER-MM-CP,0052T00000DiAZGQA3
+0012T00001uJtI2Ed6,either evil school,2021-07-22 16:48:15+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-MM-SL,0052T00000DchfZQAR
+0012T00001WWLaE40a,meant lady unless school,2021-01-22 01:08:05+00:00,08 - Transportation,US,IL,AMER-MM-CP,0052T00000CAow7QAD
+0012T00001F4buzJDc,mars university,2019-10-04 21:44:25+00:00,"12 - Professional, Scientific, Technical Services",US,MO,AMER-MM-CP,0052T00000DchfPQAR
+0012T00001i1JdT0nm,night churchyard beauty incorporated,2021-05-05 07:40:02+00:00,18a - Restaurants,US,,AMER-MM-CP,0052T00000DYT6XQAX
+0012T00001rWBxupAF,talked hose mourn corporation,2021-04-19 19:37:03+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000DZOwgQAH
+0012T00001mYCdx1lh,jonah humming nestled school,2023-06-18 05:11:28+00:00,04 - Construction,US,TN,AMER-MM-CP,0052T00000CBYGlQAP
+001f400000uTezOAAS,thought arms creeks,2019-04-02 16:01:56+00:00,12a - Architectural & Engineering Services,US,,AMER-ENT-CP,005f4000002HyY8AAK
+0012T00001zHDtgkBn,feathers despise,2019-10-04 21:57:34+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,NC,AMER-MM-SL,0052T00000DZByjQAH
+0012T000011GuqTCpP,human firefighter,2021-03-02 22:56:15+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM,0052T00000DZZNmQAP
+0012T00001c582UVDY,guess held,2019-10-04 21:52:38+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000CBYFiQAP
+0012T0000189MsCY0h,narwhal piglet,2019-10-04 21:45:52+00:00,05 - General Manufacturing (Catch-all),US,CA,AMER-MM-CP,0052T00000DhuLCQAZ
+0012T00001PbmL5cw1,therein minnesota hannah inc,2019-10-16 22:48:58+00:00,"12 - Professional, Scientific, Technical Services",US,NY,AMER-MM-CP,0052T00000DhjP9QAJ
+0012T00001NC7UQwWP,vinegarroon inc,2019-10-04 21:48:44+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NY,AMER-MM-CP,0052T00000CBShbQAH
+0012T00001iUHVaAKN,once library hurricane university,2021-05-06 07:41:29+00:00,"09 - Software, Telecommunications, Publishing",US,,AMER-MM-CP,0052T00000DhigJQAR
+0012T00001I1RenAxO,protractor element,2019-10-04 21:50:05+00:00,"10 - Finance, Insurance",US,PA,AMER-MM-CP,0052T00000DhrdXQAR
+0012T00001u3sJb6Vz,sickie dos tongue inc,2023-06-28 17:04:33+00:00,Missing NAICS,US,TX,AMER-MM-CP,0052T00000DhiffQAB
+0012T0000120PQiXQJ,ills waiting better,2022-01-24 16:53:10+00:00,05 - General Manufacturing (Catch-all),US,AL,AMER-MM-CP,0052T00000DhYPDQA3
+0012T00001rQndEgrI,rattling university,2019-10-04 21:49:56+00:00,"11 - Real Estate, Rental, Leasing",US,IL,AMER-MM-CP,0052T00000CBLfxQAH
+0012T000015uNGV5lj,gatitos beauty nobody corp,2020-04-13 12:39:25+00:00,05 - General Manufacturing (Catch-all),US,TX,AMER-MM-CP,0052T00000CAewMQAT
+0012T00001Do8D4b4N,roll hosannas incorporated,2020-04-02 01:33:01+00:00,13 - Education - Elementary & Secondary Schools,US,AZ,AMER-MM-SL,0052T00000Dr8SZQAZ
+0012T000014LBK3FrR,tresses,2020-07-28 14:17:44+00:00,05 - General Manufacturing (Catch-all),US,WA,AMER-MM-CP,0052T00000CB0ORQA1
+0012T000014thgJUyk,celestial hogs corp,2021-01-08 00:29:42+00:00,"10 - Finance, Insurance",US,CA,AMER-MM-CP,0052T00000DhrdTQAR
+0012T000016ArYZHbA,narrow sonna yon corporation,2023-06-16 02:01:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CjubVQAR
+0012T00001Ay4ogyAC,polliwog pointed morning corporation,2019-10-04 21:46:15+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,FL,AMER-ENT-SL,0052T00000DAWP0QAP
+0012T00001kxdCkScE,shoe three medal corporation,2022-07-28 11:14:29+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000CBYFnQAP
+0012T00001ejD3y4Lg,hang mathematics,2020-08-27 21:44:35+00:00,"12 - Professional, Scientific, Technical Services",US,TX,AMER-MM-CP,0052T00000CBZo5QAH
+0012T00001iThARuWY,orbit,2023-07-09 12:40:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0NsQAL
+0012T000014idmih2P,venus crawdads corporation,2021-05-06 03:40:29+00:00,21 - Other,US,,AMER-MM-CP,0052T00000DhjEuQAJ
+0012T00001yenB2WrZ,build hurried,2023-06-21 02:20:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0NxQAL
+0012T00001jmg4guV8,would peacock jester,2021-06-11 22:51:08+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000Ck1jkQAB
+0012T00001HJiYbN4N,tarantula field,2021-01-22 23:50:12+00:00,04 - Construction,US,CA,AMER-MM-CP,0052T00000DAT81QAH
+0012T000013yI5v0Ke,rake groans corporation,2021-09-21 19:56:23+00:00,Missing NAICS,US,,AMER-GBL,005f4000000OfmGAAS
+0012T00001tjhWOktI,she cheese hanky university,2019-11-27 17:14:49+00:00,16 - Health Care (Catch-all),US,TN,AMER-ENT-CP,0052T00000AIY1LQAX
+0012T00001plr04YeA,dude school,2019-10-04 21:55:54+00:00,18 - Hospitality Catch-all,US,FL,AMER-MM-CP,0052T00000CB0NxQAL
+0012T00001sVJEsQnN,frown inc,2019-10-04 21:48:16+00:00,"10 - Finance, Insurance",US,IL,AMER-MM-CP,0052T00000AIiw2QAD
+0012T000012h5T2GfR,lick inc,2019-10-04 21:46:29+00:00,05b - Medical Manufacturing and Laboratories,US,MA,AMER-GBL,005f4000004VkViAAK
+0012T00001J79VP7kL,top leaellynasaura minivan,2022-09-15 17:10:24+00:00,21 - Other,US,TN,AMER-MM-CP,0052T00000CjnlSQAR
+0012T00001ecz5ASEa,fabrosaurus witch corp,2019-10-04 21:46:12+00:00,08 - Transportation,US,IL,AMER-MM-CP,0052T00000DhYQGQA3
+0012T00001MCt9IrNL,field thread,2023-04-09 11:51:29+00:00,"12 - Professional, Scientific, Technical Services",US,MA,AMER-MM-CP,0052T00000CB0NsQAL
+0012T00001LcR3woMr,sprang university,2021-03-16 04:14:33+00:00,19a - Religious Organizations,US,,AMER-MM-CP,0052T00000DZO9ZQAX
+0012T00001nZiuRB6b,babies backing mobile school,2019-10-04 21:38:38+00:00,"10 - Finance, Insurance",US,,AMER-ENT-CP,0052T00000DhfmiQAB
+0012T00001CzrJg5dZ,verk growing weapons co,2019-10-04 21:51:49+00:00,12a - Architectural & Engineering Services,US,AZ,AMER-GBL,0052T00000DAWOvQAP
+0012T00001xnqqM3pA,mind mother stylish inc,2022-03-29 16:56:29+00:00,18 - Hospitality Catch-all,US,,AMER-GBL,0052T00000D9YdqQAF
+0012T00001DAOZRpJh,behold buzzed past corp,2023-06-22 11:30:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CAexUQAT
+0012T00001CRlnMJlX,ireland inc,2020-07-21 01:39:49+00:00,04 - Construction,US,TX,AMER-MM-CP,0052T00000Di3nBQAR
+0012T00001S9uEm5E1,night lords utah co,2021-03-03 04:42:25+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM,0052T00000CjubVQAR
+0012T00001ZvX5Eyjv,mamas palette not corporation,2023-06-24 13:50:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhtW4QAJ
+0012T00001JBVD3Uif,midday inc,2022-03-10 07:30:29+00:00,24 - Security Providers/Integrators,US,,AMER-MM-CP,0052T00000CAewMQAT
+0012T000013l8DhB8m,nicholas rrah teddy corp,2019-10-04 21:47:03+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000AIXcGQAX
+0012T00001uHTUnqic,hurry university,2021-03-02 00:56:34+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,IL,AMER-MM-SL,0052T00000CB0PPQA1
+0012T00001QO5UHdge,goblins pum,2023-06-26 15:21:28+00:00,"12 - Professional, Scientific, Technical Services",US,MI,AMER-MM-CP,0052T00000DZOA3QAP
+0012T000012eTO5V57,shuts cobleigh corporation,2021-04-02 06:29:37+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000AIcY4QAL
+0012T00001fnDusf83,ditch capybara heigh corp,2019-10-04 21:43:39+00:00,"12 - Professional, Scientific, Technical Services",US,WI,AMER-ENT-CP,0052T00000DhYPEQA3
+0012T00001wqTyfuvf,museum scampering university,2019-10-04 21:45:29+00:00,06 - Wholesale,US,VA,AMER-ENT-CP,0052T00000Di3VqQAJ
+0012T00001Jfegdxwi,tsunami university,2019-10-20 18:34:22+00:00,04 - Construction,US,CO,AMER-MM-CP,0052T00000CBZ2fQAH
+0012T00001frTPO27z,second could photo inc,2019-10-04 21:44:22+00:00,16 - Health Care (Catch-all),US,OH,AMER-MM-CP,0052T00000DrKgdQAF
+0012T00001nH1hA0ob,sapphire shooting stares corporation,2019-10-04 21:42:36+00:00,04 - Construction,US,ND,AMER-GBL,0052T00000AIeSmQAL
+0012T00001GtfrqbDs,johnny trotted loud,2019-10-20 18:39:05+00:00,"17 - Arts, Entertainment, Recreation, Museums, Gaming, Sports (Catch-all)",US,CA,AMER-MM-CP,0052T00000DZOwgQAH
+0012T00001aGuBz9dS,blessed collar,2019-10-04 21:57:29+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,OH,AMER-MM-SL,0052T00000DZSbDQAX
+0012T000011pxLnukr,spell young pop inc,2020-07-20 22:05:44+00:00,06 - Wholesale,US,AR,AMER-MM-CP,0052T00000DhYQ6QAN
+0012T00001cn1AWimi,bracelet,2021-01-06 01:57:47+00:00,"12 - Professional, Scientific, Technical Services",GB,,EMEA-MM,0052T00000DAo53QAD
+0012T00001or8RzRTU,graph,2023-04-17 21:36:30+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBYGlQAP
+0012T000017r9Epxjk,mighty wandered dinosaur corp,2021-02-16 07:33:57+00:00,06 - Wholesale,US,CA,AMER-MM-CP,0052T00000DYT76QAH
+0012T00001h5MK92Se,lie handle,2023-06-18 14:01:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CAexUQAT
+0012T00001TX87IsLA,policemen meanly et corporation,2022-10-06 09:39:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBShbQAH
+0012T000014Rv1Cun1,finger wink university,2019-10-04 21:45:17+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,OH,AMER-FED,0052T00000Dr8SjQAJ
+0012T00001pXizZ1UF,jolly roses corporation,2021-04-14 11:22:29+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000CBYFiQAP
+0012T00001B647BPIo,everywhere de,2020-11-12 04:43:44+00:00,08 - Transportation,CA,ON,AMER-MM,0052T00000CAexUQAT
+0012T00001u45EARfy,leprechaun fair knee inc,2023-05-05 15:01:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBYLWQA5
+0012T000014nkBEIvZ,mallard auburn rhyme,2019-10-04 21:54:01+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,IL,AMER-ENT-SL,0052T00000CB0P0QAL
+0012T00001LTDJKrt6,fifth learn stuck university,2023-04-12 20:51:29+00:00,"18b - Hotels, Casinos, Accommodations",US,AZ,AMER-MM-CP,0052T00000CB0PtQAL
+0012T00001hUbHeljV,doe fifth,2019-10-04 21:43:53+00:00,05 - General Manufacturing (Catch-all),US,CT,AMER-ENT-CP,005f4000004YlAmAAK
+0012T00001BER6EjNx,color gong corp,2022-08-25 22:02:31+00:00,05b - Medical Manufacturing and Laboratories,US,,AMER-MM,0052T00000DZZNmQAP
+0012T00001B2Qmg7OC,prevents yukash neighbor co,2019-10-20 18:32:34+00:00,05a - Food and Beverage Manufacturing,US,MI,AMER-MM-CP,0052T00000DZOA3QAP
+0012T00001dNBFykSv,letter,2023-05-29 04:21:29+00:00,18a - Restaurants,US,DC,AMER-MM-CP,0052T00000DhrcPQAR
+0012T00001lhKfD7Ox,pinwheel pluto incorporated,2019-10-04 21:43:38+00:00,05 - General Manufacturing (Catch-all),US,GA,AMER-ENT-CP,0052T00000CBShvQAH
+0012T00001KLnGDB7t,acquaintance boy co,2023-05-21 04:40:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000AIcY4QAL
+0012T00001cqi9MTNl,big wee gas,2021-05-18 07:56:07+00:00,"10 - Finance, Insurance",US,,AMER-MM-CP,0052T00000CBLfxQAH
+0012T00001Lud2QCUI,bananas son school,2019-10-04 21:52:56+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000CBUB8QAP
+0012T00001Bv0jScNr,bow co,2023-06-18 08:01:29+00:00,Missing NAICS,US,,AMER-MM,0052T00000D9qkpQAB
+0012T00001JS09A6qw,scouts corporation,2019-10-04 21:39:21+00:00,Missing NAICS,US,,AMER-GBL,0052T00000DAWOvQAP
+0012T00001hSSZBPiR,bags hyena pennyweight inc,2021-09-05 03:43:28+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM,0052T00000CjubVQAR
+0012T00001oogbXBir,been corporation,2019-12-02 08:41:11+00:00,"09 - Software, Telecommunications, Publishing",US,OH,AMER-MM-CP,0052T00000DrKgdQAF
+0012T00001G0sNKWtm,in,2019-10-04 21:45:58+00:00,07 - Retail,US,PA,AMER-ENT-CP,0052T00000AIivxQAD
+001f400001BPvrLAAT,caribou school,2019-08-27 20:35:18+00:00,"12 - Professional, Scientific, Technical Services",US,ID,AMER-GBL,005f4000004VkViAAK
+0012T00001zV88i0Q1,india,2023-06-17 14:30:28+00:00,"12 - Professional, Scientific, Technical Services",US,AZ,AMER-MM-CP,0052T00000DrBtdQAF
+0012T00001gAIt1BAu,pa lilt university,2019-10-04 21:45:47+00:00,07 - Retail,US,MI,AMER-MM-CP,0052T00000DUkZRQA1
+0012T00001u1Jm80Tg,ants pa crows,2022-01-15 01:04:20+00:00,16c - Social Care Facilities,US,,AMER-GBL,0052T00000DYzemQAD
+0012T00001CnxWetZ4,sandals gas,2023-06-22 02:20:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DYcb7QAD
+0012T00001VReUqfsY,apatosaurus peeping homophone,2022-06-27 17:48:48+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DZbONQA1
+0012T00001gsK06Ca0,lollipop grateful inc,2022-04-11 04:17:22+00:00,08 - Transportation,US,,AMER-MM-CP,0052T00000CB0PKQA1
+001f400000uUIjHAAW,gecko,2019-04-09 18:31:14+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,AZ,AMER-ENT-SL,0052T00000DAWOvQAP
+0012T00001GunE9aOT,urchins pentagon ocean co,2023-01-10 02:02:28+00:00,"12 - Professional, Scientific, Technical Services",US,PA,AMER-MM-CP,0052T00000AIXaUQAX
+0012T00001roPruToB,peck university,2019-10-04 21:46:12+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-MM-SL,0052T00000Di9gzQAB
+0012T00001CkPRVwLU,shoulder incorporated,2022-04-19 17:40:48+00:00,07a - Auto Sales/Rental,US,PA,AMER-MM-CP,0052T00000CBShHQAX
+0012T00001iK1F1hBY,squirting university,2023-03-21 09:16:28+00:00,16d - Assisted Living Facilities,US,PA,AMER-MM-CP,0052T00000DhtH9QAJ
+0012T00001kjZ0i5CW,tiny bouquet inc,2020-12-29 02:32:12+00:00,06 - Wholesale,GB,,EMEA-MM,0052T00000CAewvQAD
+0012T000012ZQZecpx,distressful treasure university,2021-03-09 07:43:36+00:00,04 - Construction,US,,AMER-MM,0052T00000D9qkpQAB
+0012T00001DzXUUH3B,may ants dartboard inc,2019-10-20 18:45:18+00:00,"12 - Professional, Scientific, Technical Services",US,MI,APAC,0052T00000CBVErQAP
+0012T00001iOgwwF2B,foo prevents legs co,2019-10-04 21:42:12+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000DhjP9QAJ
+0012T00001dCfYJI1H,oh university,2019-10-04 21:49:26+00:00,16 - Health Care (Catch-all),US,WI,AMER-MM-CP,0052T00000CAewRQAT
+0012T00001pWyRC72e,drives school,2023-04-19 22:31:29+00:00,"12 - Professional, Scientific, Technical Services",US,CA,AMER-MM-CP,0052T00000DYcb2QAD
+0012T000010JYJetsV,point armchair twenty inc,2023-03-24 19:17:29+00:00,05 - General Manufacturing (Catch-all),US,CA,AMER-MM-CP,0052T00000DZByyQAH
+0012T000017fkL1jBK,about corp,2020-11-12 00:46:53+00:00,21 - Other,US,NY,AMER-MM-CP,0052T00000DUkYdQAL
+0012T00001dJGmimP9,blades strawberry ease co,2020-06-30 16:38:46+00:00,19a - Religious Organizations,US,AZ,AMER-MM-CP,0052T00000CB0PtQAL
+0012T00001WbFW6irG,arms corporation,2023-07-05 19:50:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0ObQAL
+0012T000014bXvObqc,limb kersplash else co,2020-12-21 11:06:03+00:00,18a - Restaurants,US,MO,AMER-MM-CP,0052T00000DhfyPQAR
+0012T00001LXovEbaS,ton floor,2019-10-04 21:38:51+00:00,07 - Retail,US,RI,AMER-GBL,0052T00000DYSCAQA5
+0012T00001JpgUJMkK,upside,2021-08-09 03:09:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhZPTQA3
+0012T000011o9edfRy,afford buried university,2021-06-04 10:58:29+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000CBYLbQAP
+0012T00001JhFdYgIs,insects incorporated,2019-10-04 21:42:25+00:00,20a - Police & Jails,US,,AMER-MM-SL,0052T00000DhcOJQAZ
+0012T00001sZcdOjQb,ear body wondrous university,2020-06-03 06:18:05+00:00,07 - Retail,US,CA,AMER-MM-CP,0052T00000DrKitQAF
+0012T00001KbnbB6DS,throughout dinosaur mosaic university,2023-05-12 01:21:28+00:00,Missing NAICS,US,,ROW,0052T00000CT6RsQAL
+0012T000014iUlI3EV,grass playin inc,2023-06-25 14:35:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DZO9jQAH
+0012T00001LiRCWbb3,zoo corporation,2023-06-06 01:48:33+00:00,Missing NAICS,US,,ROW,0052T00000CT6RsQAL
+0012T00001fIwmWwmN,pan red coming inc,2019-10-04 21:50:21+00:00,"09 - Software, Telecommunications, Publishing",US,CA,AMER-MM-CP,0052T00000DZSajQAH
+0012T00001M29Fps35,pekingese yon corp,2020-12-16 08:39:21+00:00,"11 - Real Estate, Rental, Leasing",US,CO,AMER-MM-CP,0052T00000CAqdvQAD
+0012T00001LdZRX3Ni,lives acquaintance inc,2019-10-04 21:41:06+00:00,08 - Transportation,US,WA,AMER-ENT-CP,0052T00000DYmH5QAL
+0012T00001nU6kZRQW,wake university,2022-02-24 08:20:28+00:00,05b - Medical Manufacturing and Laboratories,US,,AMER-MM-CP,0052T00000Di9fwQAB
+0012T00001e0kjttwP,everybody corp,2021-03-19 15:41:50+00:00,06 - Wholesale,US,,AMER-MM-CP,0052T00000DhjEuQAJ
+0012T00001abv9TNlW,oughta wall,2022-09-10 11:42:29+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,GA,AMER-MM-CP,0052T00000CAovFQAT
+0012T000016di8fftd,multiply meadows curtains inc,2019-10-04 21:56:43+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-MM-SL,0052T00000AIZOkQAP
+0012T00001pwF0oKE2,canoe iceberg co,2021-04-10 08:17:43+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-GBL,0052T00000DAWOvQAP
+0012T00001HqEWzunC,crab co,2020-10-26 13:58:33+00:00,"11 - Real Estate, Rental, Leasing",US,OH,AMER-MM-CP,0052T00000DhYPOQA3
+0012T00001tRc2wZUe,flock inc,2021-02-09 07:54:55+00:00,16 - Health Care (Catch-all),US,,AMER-MM-CP,0052T00000DhYPSQA3
+0012T00001R4SgQdPO,megalosaurus courage university,2020-05-13 15:53:42+00:00,07 - Retail,US,NJ,AMER-MM-CP,0052T00000DhoOeQAJ
+0012T000016HgGWSfn,car sock jury,2019-10-04 21:44:52+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,DC,AMER-FED,0052T00000CBAzmQAH
+0012T00001HB2SAlF7,terribly energy corporation,2019-10-04 21:41:06+00:00,06 - Wholesale,US,TX,AMER-MM-CP,0052T00000Di3VgQAJ
+0012T00001Yqp3nJgW,jaws other inc,2020-01-11 04:08:30+00:00,07a - Auto Sales/Rental,US,,AMER-MM-CP,0052T00000DhuLCQAZ
+0012T00001QbFU28Yl,worries february co,2021-03-03 04:40:12+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000DrBt4QAF
+0012T000014Xuaah1F,girl who school,2022-11-18 19:28:07+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NE,AMER-MM-CP,0052T00000CB0OgQAL
+0012T0000149WNuOb8,again everybody corporation,2019-10-04 21:48:38+00:00,21 - Other,US,PA,AMER-MM-CP,0052T00000DZOw7QAH
+0012T00001r4HCDEso,blunder canada lively school,2023-02-28 07:53:30+00:00,"09 - Software, Telecommunications, Publishing",AU,,APAC-MM,0052T00000DZAj4QAH
+0012T00001KJ0FtskQ,key school,2019-12-03 06:36:59+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",CA,NS,AMER-MM,0052T00000CAexUQAT
+0012T00001cU9yS4Iy,cape honest neither corp,2021-05-27 05:59:28+00:00,"01 - Agriculture, Forestry, Fishing, Hunting",US,,AMER-MM-CP,0052T00000DhrbCQAR
+0012T00001RLrInogv,wings meets unclouded school,2021-04-27 04:44:29+00:00,18a - Restaurants,US,,AMER-MM-CP,0052T00000DAo5NQAT
+0012T00001xtueaFQV,leads squishing meant,2022-02-10 02:18:23+00:00,Missing NAICS,GB,,EMEA-MM,0052T00000Dr8S5QAJ
+0012T00001RVxLgYht,glad lady nod incorporated,2019-10-04 21:50:13+00:00,04 - Construction,US,SC,AMER-MM-CP,0052T00000CBL5zQAH
+0012T00001byDZLLFm,great bookcase corp,2019-10-04 21:45:39+00:00,07 - Retail,GB,,EMEA-MM,0052T00000DUkYsQAL
+0012T00001x9vFLXpX,icosahedron,2019-10-04 21:45:42+00:00,07 - Retail,US,IN,AMER-ENT-CP,0052T00000Dhj04QAB
+0012T00001uQviJOth,recorder rook co,2019-10-04 21:47:43+00:00,"09 - Software, Telecommunications, Publishing",US,,AMER-MM-CP,005f4000004bj6UAAQ
+0012T000014tAujQVt,swell school,2022-09-01 02:52:50+00:00,18a - Restaurants,US,,AMER-MM-CP,0052T00000DhrdIQAR
+0012T00001LsJMH6X2,grew,2019-10-20 18:38:36+00:00,18 - Hospitality Catch-all,US,CA,AMER-MM-CP,0052T00000CBShRQAX
+0012T00001wvgoo4YD,easy incorporated,2019-10-04 21:45:27+00:00,03 - Utilities (22),CA,ON,AMER-MM,0052T00000CAexUQAT
+0012T00001v0sH84LI,snug adjective inc,2023-04-07 03:26:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000Ck1jkQAB
+0012T000015fcImjJd,simmon evening into,2021-11-10 16:42:48+00:00,07a - Auto Sales/Rental,AU,,APAC-ENT,0052T00000DAbvkQAD
+0012T00001OzMpcMdJ,camper incorporated,2023-04-03 19:03:29+00:00,20a - Police & Jails,US,AR,AMER-MM-SL,0052T00000CBYLlQAP
+0012T00001FeSxusHO,galaxy peter alice,2020-11-12 04:13:06+00:00,"17 - Arts, Entertainment, Recreation, Museums, Gaming, Sports (Catch-all)",US,AZ,AMER-MM-CP,0052T00000DrBtdQAF
+0012T00001IQSYF8IS,puzzle runs corp,2019-10-04 21:49:22+00:00,"11 - Real Estate, Rental, Leasing",US,AL,AMER-MM-CP,0052T00000DhYPDQA3
+0012T0000195QLfi9X,wastebasket leaves,2021-06-24 07:20:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000D9kkUQAR
+0012T00001i1bEUMIA,pipers pawing school,2023-05-18 01:51:29+00:00,15 - Education - Other (Catch-all),US,SC,AMER-MM-CP,0052T00000DZZNhQAP
+0012T000015PE9jm9S,rainbow ate badger incorporated,2019-10-16 22:50:47+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NY,AMER-GAM,0052T00000D9d8dQAB
+0012T00001thQIkWtc,fair hit hug,2022-12-16 00:03:29+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000DA7IdQAL
+0012T00001QoP2Cqu1,very ladder many,2022-01-15 01:03:51+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-GBL,0052T00000DAWOvQAP
+0012T0000164FXlIMB,pigeon d incorporated,2020-10-07 23:08:45+00:00,03 - Utilities (22),US,MO,AMER-MM-CP,0052T00000DhfyPQAR
+0012T00001vCpxBHUP,baseball vertebra washer co,2019-10-04 21:47:08+00:00,"09 - Software, Telecommunications, Publishing",US,,AMER-MM-CP,0052T00000DYcb2QAD
+0012T000012wF4aRWn,troubled basket seek corporation,2020-03-16 20:01:11+00:00,05 - General Manufacturing (Catch-all),US,WI,AMER-MM-CP,0052T00000DciQGQAZ
+0012T00001cegubJwX,course slacks university,2019-10-04 21:51:14+00:00,"12 - Professional, Scientific, Technical Services",CA,ON,AMER-MM,0052T00000CAexUQAT
+0012T00001NmBCMK2E,desk,2019-10-04 21:45:22+00:00,07 - Retail,US,TX,AMER-MM-CP,0052T00000CBYFnQAP
+0012T00001GTixQeGz,seek very chubby university,2019-10-20 18:38:11+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NY,AMER-MM-CP,0052T00000DUkYdQAL
+0012T00001YAvrL6Gk,barked armadillo,2019-10-04 21:53:48+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",CA,SK,AMER-ENT,0052T00000DZZNSQA5
+0012T00001fA0iCUsw,live alamosaurus school,2019-10-04 21:44:42+00:00,05 - General Manufacturing (Catch-all),US,MO,AMER-MM-CP,0052T00000DhfyPQAR
+0012T00001VPgJqFmz,turned laugh nabarlek co,2020-08-07 20:22:42+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",CA,ON,AMER-MM,0052T00000CjubVQAR
+0012T00001wZAQfJ6T,bent tundra corp,2020-05-14 02:07:54+00:00,05 - General Manufacturing (Catch-all),GB,,EMEA-MM,0052T00000CAnRwQAL
+0012T0000167z5M03K,sickie corporation,2021-04-19 06:11:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBYFiQAP
+0012T00001zQX8pySS,saw firemen tuna,2021-02-01 23:21:17+00:00,07 - Retail,US,CA,AMER-MM-CP,0052T00000CArVxQAL
+0012T00001sqjcJz6L,windmill,2019-10-04 21:46:11+00:00,13 - Education - Elementary & Secondary Schools,US,,AMER-MM-SL,0052T00000CApHKQA1
+0012T00001mc32yRE8,sun lightning ought,2023-04-18 23:40:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhigJQAR
+0012T00001my1NSHbP,dickie zooplankton corporation,2019-02-12 17:34:13+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000DiAZGQA3
+0012T00001lOuuL2Qw,how jewelry loves school,2019-10-04 21:46:29+00:00,05 - General Manufacturing (Catch-all),GB,,EMEA-MM,0052T00000CAewvQAD
+0012T000019znTaCZA,thing ills bore,2019-10-04 21:54:05+00:00,13 - Education - Elementary & Secondary Schools,US,NJ,AMER-MM-SL,0052T00000DtNUVQA3
+0012T00001eyFatR2O,store,2023-06-20 23:30:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhZPTQA3
+0012T00001SbwLH0bM,forbid incorporated,2023-07-04 22:41:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DZZNhQAP
+0012T000011qd7B4ju,doth oviraptor amazing,2019-10-20 18:39:06+00:00,03 - Utilities (22),US,LA,AMER-MM-CP,0052T00000CB0OlQAL
+0012T00001bJbqjvJv,pacific corp,2019-10-04 21:49:38+00:00,"12 - Professional, Scientific, Technical Services",US,AZ,AMER-ENT-CP,0052T00000DcevFQAR
+0012T00001JUJIq8q7,goes,2019-10-04 21:45:31+00:00,12b - Facilities Services,US,MA,AMER-MM-CP,0052T00000CBYLbQAP
+0012T00001vTxn6O7g,same cheese scope incorporated,2019-10-04 21:38:34+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000DiAZGQA3
+0012T00001UFO50kmL,put armchair personal corp,2021-03-19 17:23:37+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000DrKjIQAV
+0012T00001bVPl7QHY,balloon university,2020-06-02 04:11:37+00:00,07 - Retail,US,IL,AMER-MM-CP,0052T00000Ck0XnQAJ
+0012T00001u2GoQ8m4,kneebone corporation,2019-10-04 21:44:36+00:00,05a - Food and Beverage Manufacturing,US,CA,AMER-MM-CP,0052T00000CAovEQAT
+0012T00001IAzVBewR,radar glacier,2022-08-27 00:39:28+00:00,"17b - Country Clubs, Gyms, & Other Recreation Sites",US,,AMER-MM-CP,0052T00000CB0OgQAL
+0012T00001f20s0woL,napper cape corp,2020-05-12 13:47:04+00:00,"12 - Professional, Scientific, Technical Services",US,IL,AMER-MM-CP,0052T00000DhYQGQA3
+0012T000017qmhdPkB,folks school,2019-10-04 21:53:07+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000DckSJQAZ
+0012T00001TKQ1dyvB,whale drip toys co,2023-06-29 20:31:28+00:00,"12 - Professional, Scientific, Technical Services",US,OH,AMER-MM-CP,0052T00000DhjEuQAJ
+0012T00001QGNyZwvL,track school,2023-04-11 16:30:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhmIuQAJ
+001f4000010L8jeAAC,sweetly gently dan,2019-06-03 18:22:54+00:00,"12 - Professional, Scientific, Technical Services",US,PA,AMER-MM-CP,0052T00000DhjMFQAZ
+0012T00001kBwLMyEA,giddy heaving incorporated,2023-06-21 13:11:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000Di3nBQAR
+0012T00001yWRGveFQ,waters rain heaps corp,2021-03-16 04:19:09+00:00,16f - Food Banks and Other Relief Services,US,NY,AMER-MM-CP,0052T00000DZO9jQAH
+001f4000009UGaUAAW,cookie corporation,2017-09-19 05:38:39+00:00,18 - Hospitality Catch-all,US,VA,AMER-GBL,005f4000002IQ3bAAG
+0012T000011eRST5jM,tale,2020-05-02 06:07:52+00:00,04 - Construction,CA,BC,AMER-MM,0052T00000D9qkpQAB
+0012T00001kF8wbLcV,into,2019-10-04 21:53:52+00:00,13 - Education - Elementary & Secondary Schools,US,MT,AMER-MM-SL,0052T00000CAnSBQA1
+0012T00001SV2KNxEH,elephant inc,2019-10-04 21:43:00+00:00,05 - General Manufacturing (Catch-all),US,,AMER-ENT,0052T00000DZZNSQA5
+0012T00001tEJlRIeS,blows willing incorporated,2019-10-04 21:42:24+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000Dcid0QAB
+0012T00001UQrRHYSl,laughed j knows incorporated,2019-10-04 21:44:28+00:00,05 - General Manufacturing (Catch-all),US,NJ,AMER-ENT-CP,0052T00000DrKgsQAF
+001f400000dgffrAAA,playin swathing school,2018-10-25 19:02:36+00:00,08 - Transportation,US,TN,AMER-GBL,0052T00000DAF5rQAH
+0012T00001J5Q9bq0Q,birds corporation,2023-06-20 22:29:29+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000D9kkUQAR
+0012T00001Ei4DGebK,troubled arkansas corporation,2022-10-10 05:04:28+00:00,05 - General Manufacturing (Catch-all),US,TX,AMER-MM-CP,0052T00000DZSajQAH
+0012T00001DZ7Qlgoa,ostrich work inc,2021-11-23 01:14:57+00:00,18 - Hospitality Catch-all,US,,AMER-MM-CP,0052T00000Ck0XnQAJ
+0012T000013GIpRfiB,stuck quokka,2019-10-04 21:40:48+00:00,"12 - Professional, Scientific, Technical Services",US,GA,AMER-GBL,005f4000000OfmGAAS
+0012T00001FUsIwrOl,evil unless university,2019-12-12 21:24:18+00:00,05a - Food and Beverage Manufacturing,GB,,EMEA-MM,0052T00000DAo53QAD
+0012T000019tJcb6Ke,anthill wonderful,2019-10-04 21:42:37+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000CBL5zQAH
+0012T00001s0FNHJdb,vase rolled monkey,2019-10-02 14:25:07+00:00,07 - Retail,US,IL,AMER-GBL,0052T00000CSngyQAD
+0012T00001BcM94Tfm,bore school,2020-11-25 00:53:50+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBL5qQAH
+0012T00001BFTXeEqD,fail spell university,2023-05-17 00:40:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0ORQA1
+0012T000017SRaCWy0,yonder empty midnight corporation,2020-05-12 04:46:35+00:00,22 - Waste Management,US,TX,AMER-MM-CP,0052T00000DZbOrQAL
+0012T000019G1F94wZ,plankton prow wash school,2019-10-04 21:38:39+00:00,"10 - Finance, Insurance",US,,AMER-GBL,0052T00000DYWIbQAP
+0012T000016Zk0W4sa,sye less incorporated,2023-04-20 04:52:29+00:00,15 - Education - Other (Catch-all),US,,ROW,0052T00000CT6RsQAL
+0012T000015FIyix7f,marbles school,2023-05-27 05:41:29+00:00,"10 - Finance, Insurance",US,CA,AMER-MM-CP,0052T00000DZO9ZQAX
+0012T00001BZ9DrhaG,streams vehicle pumpkins,2019-10-04 21:48:27+00:00,"16e - Ambulances, Blood Banks, etc.",US,OH,AMER-MM-CP,0052T00000CBLg7QAH
+0012T00001eHSGaiSa,female,2019-10-04 21:46:41+00:00,"09 - Software, Telecommunications, Publishing",US,,AMER-ENT-CP,0052T00000DYm1WQAT
+0012T000013ZsoKYfC,hippodoodles creatures penguin,2019-10-04 21:49:17+00:00,"10 - Finance, Insurance",US,NJ,AMER-MM-CP,0052T00000DhoOeQAJ
+0012T00001gTyghZy1,love respiration give inc,2022-10-27 21:17:28+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,MD,AMER-ENT-CP,0052T00000CjnlSQAR
+0012T00001K0c24ldk,leads squishing meant,2021-07-28 16:51:28+00:00,24 - Security Providers/Integrators,US,,AMER-MM-CP,0052T00000DhYPOQA3
+0012T00001MjmOV20x,splendid,2021-04-15 08:20:30+00:00,"09 - Software, Telecommunications, Publishing",US,,AMER-MM-CP,0052T00000DUkYdQAL
+0012T00001YcKDbaDF,crawled inc,2023-06-29 00:01:28+00:00,18a - Restaurants,US,CT,AMER-MM-CP,0052T00000CBYGWQA5
+0012T00001Vl0chyfw,brick pumpkin,2020-03-27 05:32:05+00:00,"12 - Professional, Scientific, Technical Services",US,NY,AMER-MM-CP,0052T00000CB0OgQAL
+0012T00001LLw2oYD5,offer shocking he co,2021-11-01 00:26:23+00:00,19a - Religious Organizations,US,,AMER-MM-CP,0052T00000CBSgsQAH
+0012T00001CAQoa2Dh,crawled university,2017-12-01 04:09:35+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-GBL,005f4000002HlaZAAS
+0012T00001P2v9IkxX,gives bench jellyfish,2020-08-25 13:02:35+00:00,17a - Public Venues,US,MA,AMER-MM-CP,0052T00000CBUB8QAP
+0012T00001Di2GQ946,female university,2019-10-04 21:43:24+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000CBYGWQA5
+0012T00001oBsYuQQc,these corporation,2019-10-04 21:46:28+00:00,08 - Transportation,US,,AMER-MM-CP,0052T00000Di3nBQAR
+0012T00001HpIsFj7S,blowing empty,2022-07-16 11:54:29+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000CB0OgQAL
+001f400000zCGILAA4,hue hummingbird corp,2019-05-13 16:41:00+00:00,13 - Education - Elementary & Secondary Schools,US,LA,AMER-ENT-SL,0052T00000CB8u1QAD
+001f400000uTZEhAAO,my joy,2019-04-01 21:53:20+00:00,18 - Hospitality Catch-all,US,CA,AMER-GBL,005f4000002IQ3bAAG
+0012T00001x6wNkPiK,maryland trundle floor school,2019-10-20 18:40:19+00:00,07 - Retail,US,VA,AMER-MM-CP,0052T00000DhrcyQAB
+0012T00001lW3jSu89,church,2021-03-28 21:12:56+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000CB0PjQAL
+0012T00001vo9v6EcR,minnesota school,2021-02-16 07:22:32+00:00,05 - General Manufacturing (Catch-all),US,OR,AMER-MM-CP,0052T00000CB0zmQAD
+0012T00001PoO9eSNe,pterodactyl tiny swooped,2019-10-04 21:44:45+00:00,16 - Health Care (Catch-all),US,AL,EMEA-MM,0052T00000DZOvYQAX
+0012T00001gpPknEPx,small university,2020-08-26 17:47:39+00:00,05a - Food and Beverage Manufacturing,US,,AMER-ENT,0052T00000DAXJSQA5
+0012T00001ibRe60la,legs incorporated,2020-03-17 21:37:35+00:00,05 - General Manufacturing (Catch-all),US,TX,AMER-MM-CP,0052T00000Di3nBQAR
+0012T00001jHchJIxA,shared,2019-10-04 21:53:45+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",CA,ON,AMER-ENT,0052T00000CBLfnQAH
+0012T00001fF5ZvJiu,geyser banner hollow incorporated,2019-10-04 21:44:37+00:00,05 - General Manufacturing (Catch-all),US,NC,AMER-MM-CP,0052T00000DZOiUQAX
+0012T00001QYIfW3Ya,kerchief corp,2020-04-13 18:53:00+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000AIY1VQAX
+0012T00001k0E31SKz,loved incorporated,2020-05-20 20:09:22+00:00,21 - Other,US,OR,AMER-MM-CP,0052T00000CB0zmQAD
+0012T00001mJkpqLOQ,anthems knelt porthole incorporated,2023-07-04 14:20:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DrLZJQA3
+0012T00001idLzgsv2,zorro,2023-04-05 17:41:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DrLZJQA3
+0012T00001NOqvNPxc,peeping hen corp,2019-10-04 21:38:35+00:00,18 - Hospitality Catch-all,US,,AMER-GBL,005f4000002HlaZAAS
+0012T00001yt3wbxVO,monkey covered co,2020-11-23 15:44:07+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,KY,AMER-MM-SL,0052T00000DYT6wQAH
+0012T00001PMNEzzF4,glasses key,2021-07-20 17:21:27+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,AMER-ENT-SL,0052T00000Dhlr5QAB
+0012T00001bRLSMSCm,gifts co,2020-12-17 20:55:04+00:00,"17b - Country Clubs, Gyms, & Other Recreation Sites",US,MI,AMER-MM-CP,0052T00000CBL6TQAX
+0012T0000115fXzVGV,boat school,2021-05-06 12:09:29+00:00,12b - Facilities Services,US,,AMER-MM,0052T00000CjubVQAR
+0012T00001TG725uPc,heel inc,2023-07-02 11:50:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CjubVQAR
+0012T00001owkQyxra,puppy frog swell corp,2019-10-04 21:44:58+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-FED,0052T00000CBAzmQAH
+0012T00001TljhgHBu,sands broom learn co,2019-10-04 21:57:41+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,PA,AMER-ENT-SL,0052T00000DhYPcQAN
+0012T00001mlovNQoU,boat university,2019-10-05 02:41:25+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,TX,AMER-MM-SL,0052T00000CApHKQA1
+0012T00001zdhlEXWm,crawdads mama inc,2023-05-18 00:21:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0NxQAL
+0012T00001m4gbglUk,hyena van bristled corp,2020-04-07 20:05:36+00:00,06 - Wholesale,US,,AMER-MM-CP,0052T00000CBLg7QAH
+0012T000011MxEK0oL,lid university,2019-10-04 21:54:41+00:00,16a - Hospitals/Medical Centers,US,NC,AMER-ENT-CP,0052T00000DZbPBQA1
+0012T00001y06Hs6dK,walked hasty inc,2019-12-12 21:25:36+00:00,05 - General Manufacturing (Catch-all),GB,,EMEA-MM,0052T00000CAnRwQAL
+0012T000017Qat8O8e,ride ote school,2023-06-13 18:41:29+00:00,05 - General Manufacturing (Catch-all),US,LA,AMER-MM-CP,0052T00000CB0OlQAL
+0012T00001UisgrPQW,roared mastodon school,2020-06-18 01:07:25+00:00,05a - Food and Beverage Manufacturing,US,NJ,AMER-MM-CP,0052T00000DhoOeQAJ
+0012T00001OzGTd9rM,funnel corporation,2020-10-06 04:22:34+00:00,12a - Architectural & Engineering Services,US,,AMER-MM-CP,0052T00000Dhj1lQAB
+0012T00001wEWSk8Jx,church wear,2021-03-03 12:57:42+00:00,07 - Retail,US,,AMER-MM-CP,0052T00000DAo5NQAT
+0012T00001Oe36tvAL,less pool hedges school,2020-03-05 04:02:05+00:00,"11 - Real Estate, Rental, Leasing",US,VA,AMER-MM-CP,0052T00000CDyooQAD
+0012T00001OkrtF1dT,clap gazed,2019-10-04 21:46:10+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-ENT-CP,0052T00000Dl7pcQAB
+0012T00001gQpyz07D,higher corporation,2021-05-19 08:14:29+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000DYSjiQAH
+0012T000016BuIMymc,bottles school,2019-04-25 20:40:40+00:00,20a - Police & Jails,US,,AMER-FED,0052T00000CBAzmQAH
+0012T00001DpsHyDK5,don soothes corporation,2020-07-07 18:05:04+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,WI,AMER-MM-CP,0052T00000CAewRQAT
+0012T00001ewxeCqik,france pentaceratops pour co,2019-10-04 21:41:46+00:00,"10 - Finance, Insurance",US,DC,AMER-ENT-CP,0052T00000DZbPBQA1
+0012T00001aqnwgVnF,doing bank donkey school,2021-06-01 06:19:15+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0OgQAL
+0012T000014TyuVQOg,barrel refrigerator incorporated,2019-10-04 21:56:00+00:00,18a - Restaurants,US,,AMER-MM-CP,0052T00000DZOw7QAH
+0012T00001BWcKwZt1,leaf umbrellabird sword,2023-06-27 11:40:30+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBShHQAX
+0012T00001gX8m9pga,away incorporated,2020-08-29 06:13:11+00:00,"09 - Software, Telecommunications, Publishing",US,NY,AMER-MM-CP,0052T00000CAewgQAD
+0012T00001RmXbR4RZ,simple,2019-10-04 21:55:41+00:00,"17b - Country Clubs, Gyms, & Other Recreation Sites",US,OR,AMER-MM-CP,0052T00000DtNJcQAN
+0012T00001L8gBLvNU,drawing aardvark,2022-01-15 01:03:59+00:00,Missing NAICS,US,,AMER-GBL,0052T00000DAF5rQAH
+0012T00001gAVPdTxB,wonderful,2023-05-28 20:41:29+00:00,Missing NAICS,US,,AMER-MM,0052T00000D9qkpQAB
+0012T00001j4yUi8B1,pika dryosaurus wagon incorporated,2019-10-04 21:51:38+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000CAewgQAD
+0012T00001fuTrXZdw,check gifts corporation,2019-10-04 21:57:28+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,ID,AMER-ENT-SL,0052T00000CDyp8QAD
+0012T00001hjRRGNzq,bet co,2021-04-13 17:56:43+00:00,07 - Retail,US,,AMER-MM-SL,0052T00000DhifkQAB
+0012T00001GGG0it71,haunt mathematics badger,2023-04-11 12:21:28+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NH,AMER-MM-CP,0052T00000DUfXFQA1
+0012T000015QI7mv0G,globe incorporated,2023-06-21 14:31:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000AIcZ7QAL
+0012T00001BIugJcoV,trapezoid vulcanodon sword,2020-02-24 20:27:11+00:00,05 - General Manufacturing (Catch-all),MX,,LATAM,0052T00000CBSiAQAX
+0012T00001s0qJA16e,lily pum university,2021-01-19 22:50:28+00:00,"11 - Real Estate, Rental, Leasing",US,WI,CHANNEL,0052T00000DYcYrQAL
+0012T00001Ht1FJxNA,keyboard note crawled corporation,2023-04-10 23:00:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DUfWRQA1
+0012T00001JyA9XdlZ,infant neighbors co,2020-05-21 23:48:15+00:00,"12 - Professional, Scientific, Technical Services",US,DC,AMER-MM-CP,0052T00000CB0OlQAL
+0012T000017lCI3Rig,night liveliest corporation,2022-07-04 01:17:30+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000Ck0XnQAJ
+0012T00001iDXu89OI,sounds,2019-10-04 21:40:13+00:00,Missing NAICS,US,CA,AMER-MM-CP,0052T00000CB0O2QAL
+0012T00001f6fAIxwF,tete knelt sticks,2023-02-11 06:06:29+00:00,Missing NAICS,US,,AMER-MM,0052T00000CjubVQAR
+0012T000010NY8smBp,volcano maracas geology incorporated,2019-10-04 21:56:09+00:00,19a - Religious Organizations,US,,AMER-MM-CP,0052T00000CAovFQAT
+0012T00001wJrkA4cx,television bent corporation,2022-08-13 06:27:28+00:00,07 - Retail,US,,AMER-MM-CP,0052T00000DhYPDQA3
+0012T00001LIFoRz5V,shines incorporated,2019-10-04 21:56:45+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000CB0OgQAL
+0012T00001w5GPNCZ7,earthly alabama school,2019-10-04 21:46:34+00:00,"09 - Software, Telecommunications, Publishing",US,,AMER-MM-CP,0052T00000CB0P5QAL
+0012T00001V6sSqr8e,summer bells health corp,2020-09-06 12:55:23+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM,0052T00000DZZNmQAP
+0012T000018kI03YQr,yes e,2023-04-26 02:07:30+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0NsQAL
+0012T00001XuzRRLYJ,then inc,2023-05-11 21:22:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DZO9eQAH
+0012T00001G0oIZNqd,mercury,2021-05-18 07:59:59+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000DZO9eQAH
+0012T00001haY1Rm2F,afc co,2019-10-04 21:46:39+00:00,06 - Wholesale,US,,AMER-GBL,0052T00000DYzemQAD
+0012T000012H472D1y,race canary jerboa,2019-10-04 21:55:28+00:00,16b - Small Medical Offices,US,NY,AMER-GBL,005f4000002IQ3bAAG
+0012T00001Ed4kFopY,creation,2022-02-22 16:19:23+00:00,06 - Wholesale,US,,AMER-MM-CP,0052T00000Dhrb7QAB
+0012T00001GGho9kbj,by joys,2019-12-10 17:26:06+00:00,22 - Waste Management,US,PA,AMER-MM-CP,0052T00000DZOw7QAH
+0012T000016Gzi5ZgS,fishies unenlagia university,2020-05-19 14:50:19+00:00,05 - General Manufacturing (Catch-all),US,LA,AMER-MM-CP,0052T00000DhYQQQA3
+0012T00001NrfTBAsv,wood asia school,2020-06-05 22:57:45+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,MN,AMER-MM-SL,0052T00000DhlrPQAR
+0012T00001P1Qj87Jt,italy caught inc,2022-07-11 17:56:38+00:00,"12 - Professional, Scientific, Technical Services",US,MA,EMEA-MM,0052T00000CAewvQAD
+0012T00001tV7sY7Pr,kettle corporation,2021-05-19 02:29:28+00:00,12a - Architectural & Engineering Services,US,,AMER-MM-CP,0052T00000CBZ2fQAH
+0012T00001jNxeEGiR,trapezoid fawn co,2019-10-20 18:38:14+00:00,"10 - Finance, Insurance",US,WI,AMER-ENT-CP,0052T00000DhYPEQA3
+001f400000zDos2AAC,needless real co,2019-05-29 14:40:15+00:00,18a - Restaurants,CA,ON,AMER-ENT,0052T00000DZbNPQA1
+0012T00001yF4jWgHL,nimbly,2019-10-04 21:46:11+00:00,08 - Transportation,US,,AMER-MM-CP,0052T00000CBLg7QAH
+0012T00001BCKm0Eib,momma university,2023-01-11 06:31:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000Ck1jkQAB
+0012T00001cZplxIPy,arch,2019-10-04 21:49:44+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-ENT-CP,0052T00000DYcZuQAL
+0012T00001msY9Iv2m,laurel witches corp,2020-08-06 20:11:00+00:00,18a - Restaurants,US,,AMER-MM-CP,0052T00000CAewgQAD
+0012T00001NPS5lmWF,yeah glory incorporated,2020-06-07 02:08:54+00:00,"18b - Hotels, Casinos, Accommodations",US,VA,AMER-MM-CP,0052T00000CBL5aQAH
+0012T00001qOEV0FTP,pair corporation,2019-10-04 21:47:41+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,FL,AMER-MM-SL,0052T00000DZSaoQAH
+0012T00001UFvKbYUx,o monkey leprechaun co,2019-10-04 21:42:25+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000DhYQaQAN
+0012T00001cGINevwW,took hexaflexagon corporation,2023-06-28 13:51:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB8tSQAT
+0012T00001Yb7LVeng,dragon newt muffin school,2023-05-17 20:51:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhfyPQAR
+0012T000019m1HZKmU,against inc,2020-12-21 10:59:35+00:00,18a - Restaurants,US,UT,AMER-MM-CP,0052T00000CBYGgQAP
+0012T00001ibwBolsY,bathroom wooden glorious co,2020-11-19 02:18:51+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,FL,AMER-MM-SL,0052T00000DZSayQAH
+0012T00001OzPGzK07,r quadrilateral incorporated,2023-06-26 12:01:28+00:00,"12 - Professional, Scientific, Technical Services",US,,ROW,0052T00000CT6RsQAL
+0012T00001MShbvoge,drawn beard paleontology inc,2020-05-22 08:13:54+00:00,18a - Restaurants,US,CA,AMER-MM-CP,0052T00000DZO9ZQAX
+0012T0000117fXaLEl,ponies corporation,2022-09-26 02:35:10+00:00,"12 - Professional, Scientific, Technical Services",US,,EMEA-MM,0052T00000Dr8SUQAZ
+0012T000010QqrNVZj,lollipop postman eat,2022-11-28 23:53:46+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,WI,AMER-ENT-SL,0052T00000DYlR9QAL
+0012T00001u9tn4h0o,verdict bookcase co,2021-11-23 16:17:43+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0OgQAL
+0012T00001eMGaF88Q,been chicago massachusetts university,2021-02-10 02:30:42+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-GBL,0052T00000DYSCAQA5
+0012T00001TSnJQM9R,hadrosaurus years university,2019-10-04 21:42:55+00:00,08 - Transportation,US,,AMER-MM-CP,0052T00000CBShMQAX
+0012T00001rKeT4eLS,bicycle choir twig incorporated,2023-06-18 02:21:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DYcb7QAD
+0012T00001N3KOqhSN,hold school,2019-10-20 18:40:42+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,GA,AMER-ENT-SL,005f4000000OZTbAAO
+0012T000013xCaWxuL,oklahoma,2023-05-15 22:02:47+00:00,04 - Construction,US,CO,AMER-MM-CP,0052T00000DhiffQAB
+0012T00001KduM0g5n,grandmother picked,2022-07-24 21:50:26+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000CBYFiQAP
+0012T00001HxR91TVI,sheltered branch gray,2021-01-26 23:47:21+00:00,05a - Food and Beverage Manufacturing,US,CO,AMER-MM-CP,0052T00000Ck1bMQAR
+0012T00001dNuo1wEV,willow necklace school,2020-12-04 17:12:27+00:00,08 - Transportation,US,TN,AMER-MM-CP,0052T00000D9v6pQAB
+0012T00001ElbPavYA,created obey wrapped corporation,2023-05-18 05:21:29+00:00,12b - Facilities Services,US,NY,AMER-ENT-CP,0052T00000CjnlSQAR
+0012T00001JxrSBnfg,sobbing vulcanodon coolibah co,2021-01-11 19:40:40+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB1WlQAL
+0012T00001WdWj7uOR,saying vermont,2023-06-13 02:31:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CAnS6QAL
+0012T00001kmj7hzCL,sleigh iguanodon university,2019-10-09 21:53:24+00:00,18 - Hospitality Catch-all,US,CA,AMER-ENT-CP,0052T00000DYm1WQAT
+0012T00001egCu75vy,oodle bursting extending inc,2019-10-20 18:40:20+00:00,16d - Assisted Living Facilities,US,MN,AMER-MM-CP,0052T00000DUfXZQA1
+0012T000014T0exZ9j,cross buy,2019-10-04 21:54:41+00:00,16 - Health Care (Catch-all),US,TX,AMER-ENT-CP,0052T00000DYcZfQAL
+0012T00001rIkRbAzb,gull,2023-06-20 01:20:28+00:00,16d - Assisted Living Facilities,US,FL,AMER-MM-CP,0052T00000DhcEsQAJ
+0012T00001ZacdNX4N,nut kwanzaa,2023-07-06 16:31:28+00:00,"11 - Real Estate, Rental, Leasing",US,CO,AMER-MM-CP,0052T00000CBZ2fQAH
+0012T00001ReavsK2V,gently,2019-10-04 21:44:20+00:00,08 - Transportation,US,CA,AMER-MM-CP,0052T00000DhYPOQA3
+0012T00001nt0fZOQ7,tutu fell note,2019-10-20 18:41:21+00:00,"12 - Professional, Scientific, Technical Services",US,MO,AMER-ENT-CP,0052T00000DrKh2QAF
+0012T00001BLCem4n9,church incorporated,2019-10-04 21:47:45+00:00,"10 - Finance, Insurance",US,,AMER-MM-CP,0052T00000DYWIgQAP
+001f400000lAhIEAA0,hearts controlled whistle,2018-12-17 15:21:24+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,MA,AMER-ENT-SL,0052T00000DZCNeQAP
+0012T00001Kq8O4IbZ,peninsula president astronomy inc,2021-10-12 20:03:30+00:00,"09 - Software, Telecommunications, Publishing",US,,EMEA-MM,0052T00000DhqzwQAB
+0012T00001YR5sFPZU,capped kick nebraska,2019-10-04 21:39:21+00:00,20a - Police & Jails,US,,AMER-MM-SL,0052T00000CB1TmQAL
+0012T00001IZoIjVVC,jaybird tepee trials inc,2020-11-05 23:12:20+00:00,"12 - Professional, Scientific, Technical Services",US,OH,AMER-MM-CP,0052T00000DrKgdQAF
+0012T00001ZSYKUgzV,broom mad incorporated,2019-10-04 21:50:10+00:00,"11 - Real Estate, Rental, Leasing",US,IL,AMER-MM-CP,0052T00000Ck0XnQAJ
+0012T00001Q09yhBq7,drooping creatures,2019-10-20 18:38:06+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,IL,AMER-MM-SL,0052T00000DZOwlQAH
+0012T000011LEvJkSq,wild coach,2020-10-16 23:31:29+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,GA,AMER-ENT-SL,005f4000000OZTbAAO
+001f400000C0GVUAA3,fly corporation,2017-11-17 16:50:46+00:00,18 - Hospitality Catch-all,US,FL,AMER-ENT-CP,0052T00000DZOgnQAH
+0012T00001YqD0eWUj,fingernail roadrunner index inc,2021-08-11 01:05:50+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-ENT-SL,0052T00000DAWO7QAP
+0012T00001P6YpjAsT,scope riding pour co,2019-10-10 18:20:54+00:00,13 - Education - Elementary & Secondary Schools,US,ME,AMER-MM-SL,0052T00000DUJ7SQAX
+0012T00001LtUJRwGI,his sidewalk mussaurus incorporated,2021-05-19 08:10:22+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000CBL5aQAH
+0012T00001DswQhm1Y,weak track viola,2022-10-17 00:09:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DtNJrQAN
+0012T00001dwBDcBAC,overalls chopped goodness inc,2022-10-31 06:38:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DrKi0QAF
+0012T00001LntSA5lb,wheels co,2023-06-03 02:01:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DZB3dQAH
+0012T000010Om6rSzD,ease cow arkansas corp,2021-01-31 18:46:48+00:00,19a - Religious Organizations,US,FL,AMER-MM-CP,0052T00000CB0NxQAL
+0012T00001ijBamgAM,chamber love corporation,2020-03-16 21:37:33+00:00,05 - General Manufacturing (Catch-all),US,FL,EMEA-ENT,0052T00000DZOvYQAX
+0012T00001yPzobSWc,taiga her school,2023-04-18 20:21:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhYQQQA3
+0012T00001okuBEoVK,departure begin drooping corporation,2023-04-19 15:09:30+00:00,"12 - Professional, Scientific, Technical Services",AU,,APAC-MM,0052T00000DhYBaQAN
+0012T00001PFlufHZL,hosannas shoulder vests inc,2020-06-26 04:52:04+00:00,17a - Public Venues,US,NC,AMER-MM-CP,0052T00000CB0NxQAL
+0012T00001Faj2ZM04,caterpillar,2020-05-28 03:53:53+00:00,"01 - Agriculture, Forestry, Fishing, Hunting",CA,BC,AMER-MM,0052T00000D9qkpQAB
+0012T00001jmCECmH3,backstroke pistol university,2021-05-28 19:02:55+00:00,Missing NAICS,US,TX,AMER-MM-CP,0052T00000DhrdIQAR
+0012T00001L5qagSMN,brother antarctica hug inc,2020-06-12 23:41:58+00:00,07 - Retail,US,CA,AMER-MM-CP,0052T00000DZO9ZQAX
+0012T00001MIM3vdOi,meadows empty incorporated,2023-06-16 13:41:28+00:00,"11 - Real Estate, Rental, Leasing",US,CA,AMER-MM-CP,0052T00000DhuLCQAZ
+0012T00001dU7DktF6,gazed hack kansas school,2020-12-17 20:58:40+00:00,"11 - Real Estate, Rental, Leasing",US,OH,AMER-MM-CP,0052T00000DhjEuQAJ
+0012T00001slf2uhWC,deer makes school,2019-10-04 21:45:35+00:00,05 - General Manufacturing (Catch-all),US,MI,AMER-MM-CP,0052T00000DUkZRQA1
+0012T00001ztzRYzN4,pyramid illinois wear corp,2023-06-23 22:01:29+00:00,Missing NAICS,US,IL,AMER-MM-CP,0052T00000DhYQGQA3
+0012T00001ZNadB7XL,shines salmon ote co,2023-02-07 05:19:28+00:00,"12 - Professional, Scientific, Technical Services",US,MA,AMER-ENT-CP,0052T00000CjnlSQAR
+0012T00001GlklVmIz,peace,2021-06-03 10:10:28+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000CBL5qQAH
+0012T00001Az6iSij0,looks husky corporation,2020-10-18 20:04:37+00:00,18a - Restaurants,US,IN,AMER-MM-CP,0052T00000AIR4mQAH
+0012T00001AONlUXSC,r fur brayed,2019-10-04 21:43:58+00:00,05 - General Manufacturing (Catch-all),US,IA,AMER-MM-CP,0052T00000CArVsQAL
+0012T00001yOwWwgfM,weep,2022-08-25 04:09:29+00:00,Missing NAICS,US,,AMER-MM,0052T00000D9qkpQAB
+0012T00001DWV6daXu,selected incorporated,2023-07-01 15:13:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhrcPQAR
+0012T00001pqTonfXG,duckies goldfinch inc,2019-09-26 16:12:55+00:00,"09 - Software, Telecommunications, Publishing",CH,,EMEA-ENT,0052T00000Dr8SUQAZ
+0012T000018vgmryXt,handed upon co,2019-10-04 21:54:33+00:00,"16e - Ambulances, Blood Banks, etc.",US,,AMER-ENT,0052T00000DZZNSQA5
+0012T0000124wSkw8s,april corporation,2020-05-04 23:24:40+00:00,"12 - Professional, Scientific, Technical Services",US,NJ,AMER-MM-CP,0052T00000Di9fwQAB
+0012T00001FAul2rV7,your knew,2019-10-04 21:46:03+00:00,03 - Utilities (22),CA,BC,AMER-ENT,0052T00000DZZNSQA5
+0012T000010JlF3daU,gibbon comes wall corp,2019-10-04 21:45:09+00:00,05 - General Manufacturing (Catch-all),US,IN,AMER-MM-CP,0052T00000CBAZKQA5
+0012T00001qwh1qG1V,angels turtles meteoroid corporation,2019-10-04 21:50:30+00:00,"10 - Finance, Insurance",US,NY,AMER-MM-CP,0052T00000DhjP9QAJ
+0012T000016Ganf91d,appear nothosaurus co,2019-10-04 21:46:59+00:00,"12 - Professional, Scientific, Technical Services",US,,EMEA-MM,0052T00000CjxPlQAJ
+0012T00001YkSoTRWD,parallelogram tom corporation,2020-04-11 10:22:06+00:00,"12 - Professional, Scientific, Technical Services",US,TX,AMER-MM-CP,0052T00000DYSCFQA5
+0012T00001BoEiSoYE,cumbered clear,2021-12-30 14:47:29+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,CA,AMER-MM-SL,0052T00000CjnlSQAR
+0012T00001oPL04N9Z,pool daniel butterflies,2022-01-10 15:38:34+00:00,"09 - Software, Telecommunications, Publishing",GB,,EMEA-MM,0052T00000Di9g7QAB
+0012T00001bvAekMPK,tennis incorporated,2019-12-17 04:16:58+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NJ,AMER-MM-CP,0052T00000DhigJQAR
+0012T00001Skpq5bzv,dawn iowa sloshing co,2019-10-05 02:19:56+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,CO,AMER-ENT-SL,0052T00000CB2ajQAD
+0012T00001CAM8s8ru,parallelogram university,2023-05-19 03:00:29+00:00,12a - Architectural & Engineering Services,US,TX,AMER-MM-CP,0052T00000CBYFnQAP
+0012T00001UjeObDoa,pocket bench,2021-04-07 22:50:32+00:00,16 - Health Care (Catch-all),US,,AMER-MM-CP,0052T00000CBL5aQAH
+0012T00001GBnrqE1y,mustang canoe fell inc,2019-10-04 21:49:35+00:00,"11 - Real Estate, Rental, Leasing",US,TX,AMER-ENT-CP,0052T00000DYcZfQAL
+0012T00001YKREQDd1,witches or join university,2019-10-04 21:43:39+00:00,05 - General Manufacturing (Catch-all),US,,AMER-ENT-CP,0052T00000CAeuzQAD
+0012T00001CFo4TqQb,president,2019-10-04 21:46:01+00:00,07 - Retail,US,UT,AMER-GBL,005f4000004VkViAAK
+0012T00001fK6M1kgP,colors chickens puzzle co,2020-09-11 01:08:44+00:00,"01 - Agriculture, Forestry, Fishing, Hunting",US,MD,AMER-MM-CP,0052T00000DrCQDQA3
+0012T00001Qgffm0yU,another corp,2021-02-04 04:13:52+00:00,15 - Education - Other (Catch-all),US,,AMER-MM-CP,0052T00000DUfWIQA1
+0012T000015PuwYy83,eensy amazing co,2021-03-03 00:14:52+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,AMER-ENT-SL,0052T00000DZCNeQAP
+0012T00001VbFNT8rh,chin loftier street inc,2019-10-04 21:48:00+00:00,"09 - Software, Telecommunications, Publishing",US,NY,AMER-MM-CP,0052T00000DZO9eQAH
+0012T00001wGFnEw6G,spanish paper university,2023-07-04 03:01:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000Di3WoQAJ
+0012T00001rNc2junh,york corp,2021-02-19 17:43:50+00:00,12a - Architectural & Engineering Services,US,NY,AMER-MM-CP,0052T00000CB0OgQAL
+0012T00001ibQ6Mxwf,bicycle,2021-04-13 16:26:07+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-GBL,005f4000002IQ3bAAG
+0012T00001epJO62fc,after,2023-06-22 23:51:29+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NY,AMER-MM-CP,0052T00000DrLZJQA3
+0012T00001aHJMzgcr,tints plain help,2021-03-16 05:05:03+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000DZO9ZQAX
+0012T00001zifBdnzA,peck drip brine,2021-04-13 14:38:06+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000AIR4mQAH
+0012T00001ghELZpJA,we chirps incorporated,2020-06-18 01:00:56+00:00,07 - Retail,CA,ON,AMER-MM,0052T00000CAexUQAT
+0012T00001lkbuegbI,leaps school,2019-10-20 18:39:27+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,AMER-ENT-SL,0052T00000CB2ajQAD
+0012T000019e8HJEjp,cheeks fell,2019-10-04 21:54:24+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,CA,AMER-MM-SL,0052T00000DAo58QAD
+0012T000013WMoUX8z,young school,2023-06-24 13:50:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhYQQQA3
+0012T000015LPfHzcF,around corp,2020-04-07 02:14:51+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,NY,AMER-MM-CP,0052T00000DUkYdQAL
+0012T00001vpEoj0p7,nutria moral school,2019-10-04 21:39:39+00:00,05 - General Manufacturing (Catch-all),US,,AMER-GBL,0052T00000CSngyQAD
+001f400000uTfYnAAK,throughout co,2019-04-02 17:44:29+00:00,18 - Hospitality Catch-all,US,GA,AMER-GBL,005f4000000OfmGAAS
+0012T00001BOk4u230,honeybee corp,2021-07-16 19:20:06+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-MM-SL,0052T00000CB8tNQAT
+0012T00001vfc6srZp,story horns seals incorporated,2023-05-05 02:01:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhjTzQAJ
+0012T00001yMSVMyHD,tambourine school,2023-05-26 14:31:30+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DUfWqQAL
+0012T00001p8CSDewk,macaw blows school,2019-10-04 21:40:58+00:00,"12 - Professional, Scientific, Technical Services",US,WA,AMER-ENT-CP,0052T00000DYmH5QAL
+0012T00001MefFOJoU,harry sitting leader co,2019-10-04 21:49:22+00:00,"01 - Agriculture, Forestry, Fishing, Hunting",US,WA,AMER-ENT-CP,0052T00000DYmH5QAL
+001f400000uUGhGAAW,blooming,2019-04-09 14:28:02+00:00,13 - Education - Elementary & Secondary Schools,US,VT,AMER-MM-SL,0052T00000DhYREQA3
+0012T000012telXAtn,dawns wide ote university,2019-10-04 21:54:15+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,NY,AMER-ENT-SL,0052T00000DZCNeQAP
+0012T00001LEpQRl9J,fence remarkable incorporated,2020-05-28 03:39:05+00:00,"12 - Professional, Scientific, Technical Services",CA,ON,AMER-MM,0052T00000CAexUQAT
+0012T00001AAhl5DBd,game gosling,2019-10-20 18:34:37+00:00,Missing NAICS,US,,AMER-GBL,0052T00000DYSCAQA5
+0012T00001ITZdhm9H,week ground inc,2019-09-25 19:41:38+00:00,06 - Wholesale,US,NJ,AMER-ENT-CP,0052T00000DYcZGQA1
+0012T00001NqqR3dWS,p boo corporation,2021-04-13 14:11:05+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,AMER-ENT-SL,0052T00000DhtLkQAJ
+0012T000015MS4Pd39,word corp,2019-10-04 21:52:04+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000DYcb7QAD
+0012T00001xlShijZK,whistles longitude ring inc,2019-10-04 21:42:37+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000DUfWRQA1
+0012T00001PgBFepPs,away,2019-10-04 21:46:32+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-MM-SL,0052T00000Dl7pIQAR
+0012T00001ivPbakGt,e,2020-05-13 15:56:36+00:00,07 - Retail,US,NJ,AMER-MM-CP,0052T00000AIY1VQAX
+0012T00001UeCgwOjy,that wrapped bake corp,2022-03-02 14:42:28+00:00,05 - General Manufacturing (Catch-all),US,,AMER-ENT-CP,0052T00000CjopQQAR
+0012T00001ofdBgLpy,snored,2019-10-04 21:39:20+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-MM-SL,0052T00000DZSayQAH
+0012T000011Vr7DS9i,captain corporation,2021-04-14 17:28:29+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000DUfXZQA1
+0012T00001gN0uLEek,hotter corp,2023-06-24 03:40:29+00:00,16b - Small Medical Offices,US,MD,AMER-ENT-CP,0052T00000CjnlSQAR
+0012T00001O0VD9T44,miracle january incorporated,2023-06-06 20:50:28+00:00,Missing NAICS,US,,AMER-MM,0052T00000CAexUQAT
+0012T00001rDDOkk0X,playing yogurt,2020-10-02 22:51:09+00:00,08 - Transportation,US,FL,AMER-MM-CP,0052T00000Di3WoQAJ
+0012T00001FOmbT5GA,fiddle husky,2019-10-04 21:42:33+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000DhYQaQAN
+0012T000011RkAaVoW,kissing corp,2019-10-04 21:55:26+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000Di3nBQAR
+0012T00001AsKdJ7XS,lets university,2021-08-17 12:11:43+00:00,05b - Medical Manufacturing and Laboratories,US,OK,AMER-MM-CP,0052T00000DZbNzQAL
+0012T00001e9uA67P7,salmon co,2021-03-30 13:07:26+00:00,08 - Transportation,US,,AMER-MM,0052T00000CAexUQAT
+0012T00001kfWgmYu1,sparkle stylish inc,2019-03-15 17:38:18+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-GBL,0052T00000D9YdqQAF
+0012T00001OOXEy1lf,japan quetzalcoatlus child corp,2019-10-04 21:43:09+00:00,05 - General Manufacturing (Catch-all),US,,AMER-MM-CP,0052T00000CBYGlQAP
+0012T00001x1nCnWXI,wiping kakapo fourteen corp,2019-10-04 21:43:39+00:00,16 - Health Care (Catch-all),US,WA,AMER-GBL,0052T00000AIeSmQAL
+0012T000014rsufOyb,moon meets,2021-08-09 11:23:29+00:00,12b - Facilities Services,US,,AMER-MM-CP,0052T00000DrKhlQAF
+0012T00001ZfSrsvIH,touched university,2020-07-15 16:49:34+00:00,16b - Small Medical Offices,US,CA,AMER-MM-CP,0052T00000D9kkUQAR
+0012T00001gQwGOLfg,leaned inc,2020-06-07 01:55:14+00:00,18a - Restaurants,US,IL,AMER-MM-CP,0052T00000DUI14QAH
+0012T00001WWKXGokC,tank hoe ninth school,2023-05-02 04:49:57+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CAzsVQAT
+0012T00001tRxJxjpT,macaw rustle parson co,2019-10-07 21:34:58+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000DYSjiQAH
+0012T00001Kwq9QW0R,sang inc,2019-10-04 21:51:10+00:00,22 - Waste Management,US,NY,AMER-MM-CP,0052T00000DhjP9QAJ
+0012T00001aPS3olUQ,tints idaho school,2020-01-24 23:19:07+00:00,20a - Police & Jails,US,TX,AMER-MM-SL,0052T00000CAev4QAD
+0012T00001iqbLTgMi,sleep corporation,2019-10-04 21:45:44+00:00,06 - Wholesale,US,CA,AMER-MM-CP,0052T00000DZByyQAH
+0012T00001RJ7EHl3b,even son library school,2021-03-16 04:20:07+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000Ck0XnQAJ
+0012T00001nYyJbvXO,agouti j sunshine university,2020-12-31 20:26:17+00:00,"12 - Professional, Scientific, Technical Services",US,FL,AMER-MM-CP,0052T00000CBYLWQA5
+0012T00001ilCL93z7,golden smell inc,2023-07-01 04:27:45+00:00,16b - Small Medical Offices,US,CO,AMER-MM-CP,0052T00000Di9guQAB
+0012T000017alVXkpg,plain nightingale university,2020-06-14 02:54:00+00:00,20a - Police & Jails,US,MA,AMER-MM-SL,0052T00000CB0xHQAT
+0012T00001kaEIsuih,how than those co,2019-10-20 18:27:58+00:00,07 - Retail,GB,,EMEA-MM,0052T00000CArVdQAL
+0012T00001fHjZiuUZ,care brand hue co,2023-03-23 13:59:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DhjP9QAJ
+0012T00001ORdGVZI5,covering start university,2018-02-16 14:55:11+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-GBL,0052T00000DAF5rQAH
+0012T00001SgJIkHNA,heads dat rooster inc,2023-04-13 14:21:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBYFnQAP
+0012T00001qr3mzamd,hen backgammon pitch university,2023-05-16 07:31:30+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CBYLRQA5
+0012T00001kMVZ2iQy,are palette rabbit school,2023-06-24 23:10:28+00:00,07 - Retail,US,MA,AMER-ENT-CP,0052T00000CjnlSQAR
+001f400000RWtdgAAD,darned curled co,2018-06-08 15:30:32+00:00,"12 - Professional, Scientific, Technical Services",US,TN,AMER-GBL,0052T00000DAWOvQAP
+001f400000gqGh9AAE,hugging university,2018-12-03 22:18:04+00:00,16 - Health Care (Catch-all),US,TN,AMER-GBL,005f4000004VkViAAK
+0012T00001sA4ALpWY,flies wasted school,2023-03-18 03:16:28+00:00,"16e - Ambulances, Blood Banks, etc.",US,WA,AMER-MM-CP,0052T00000CB0ORQA1
+0012T00001h1hKgW7N,washed cats co,2020-11-25 00:58:23+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-ENT-SL,0052T00000AIXbJQAX
+0012T00001Qc6lSJ2V,wrapped tooth sand,2022-01-15 01:04:22+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-GBL,0052T00000DYzemQAD
+0012T00001uozV7I6J,lurk puma co,2023-06-11 01:41:29+00:00,"12 - Professional, Scientific, Technical Services",US,AZ,AMER-MM-CP,0052T00000AIXcaQAH
+0012T00001OQHMpApJ,raccoon z sly school,2019-10-04 21:55:48+00:00,18a - Restaurants,US,,AMER-ENT-CP,0052T00000DYm1WQAT
+0012T00001iKC6s7q6,midst cowboys corp,2019-10-04 21:48:12+00:00,16 - Health Care (Catch-all),US,,AMER-MM-CP,0052T00000DAo5NQAT
+0012T00001IXWxtZVi,million ladybug inc,2022-01-15 01:04:22+00:00,08 - Transportation,US,,AMER-GBL,005f4000000OfmGAAS
+0012T00001kpUZp3Vh,but thermometer inc,2020-04-01 18:07:30+00:00,05 - General Manufacturing (Catch-all),CA,AB,AMER-MM,0052T00000CjubVQAR
+0012T0000167Z1oK0x,kissing corporation,2021-02-12 02:58:08+00:00,08 - Transportation,US,NC,AMER-MM-CP,0052T00000DiAZGQA3
+0012T00001Oav43Iqb,magnet recites inc,2022-09-03 03:40:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CAnS6QAL
+0012T000018BjisSGj,hawkins impatient incorporated,2023-03-25 01:19:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DAKorQAH
+0012T00001r9xazO7R,washed university,2020-05-02 06:27:23+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000CBShHQAX
+0012T000011s35EEwC,heavy pat inc,2019-10-04 21:42:52+00:00,07 - Retail,US,,AMER-MM-CP,0052T00000DrKjIQAV
+0012T00001lgxRbeD0,teapot bent,2019-10-04 21:49:21+00:00,"10 - Finance, Insurance",US,CT,AMER-GBL,0052T00000DYWIbQAP
+0012T00001hLIemGLk,daniel name cake school,2018-10-03 20:50:28+00:00,05 - General Manufacturing (Catch-all),US,,AMER-GBL,005f4000002IQ3bAAG
+0012T00001ifk9CYAM,feathers find,2019-10-04 21:45:10+00:00,"12 - Professional, Scientific, Technical Services",US,NY,AMER-MM-CP,0052T00000DUkYdQAL
+0012T00001U9oN2tQA,husky,2023-06-22 15:11:28+00:00,"16e - Ambulances, Blood Banks, etc.",US,NV,AMER-MM-CP,005f4000004bj6UAAQ
+0012T00001hWVMfuLQ,sheep ditch,2020-10-16 21:35:21+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,ROW,0052T00000Dr8SAQAZ
+0012T000014ZrRppsv,grand vex school,2020-04-20 17:59:01+00:00,18 - Hospitality Catch-all,US,,AMER-ENT-CP,0052T00000CBLgHQAX
+0012T00001U1KALt27,drum tongue university,2019-10-04 21:46:13+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,,AMER-ENT-SL,0052T00000CB0P0QAL
+0012T00001iuxpsz5U,shop gorilla alone,2021-03-11 07:47:12+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000DhrcPQAR
+0012T00001wzwciMb7,sneezed any watched,2019-10-20 18:39:06+00:00,16a - Hospitals/Medical Centers,US,PA,AMER-ENT-CP,0052T00000AIivxQAD
+0012T00001O7yAgEMa,law university,2020-11-19 07:47:28+00:00,"11 - Real Estate, Rental, Leasing",US,,AMER-MM-CP,0052T00000D9v74QAB
+0012T00001Jc7tABqg,windmill university,2023-06-12 19:41:29+00:00,08 - Transportation,US,CA,AMER-MM-CP,0052T00000DAT81QAH
+0012T00001eAq6D8vc,get mastiff fore,2019-10-04 21:49:48+00:00,05 - General Manufacturing (Catch-all),US,OH,AMER-ENT-CP,0052T00000DrBsqQAF
+0012T00001v7CHz9eD,together cabin university,2019-10-04 21:50:25+00:00,05 - General Manufacturing (Catch-all),CA,BC,AMER-ENT,0052T00000AIcYOQA1
+0012T00001mfmCClWP,save something peer,2022-07-24 22:01:21+00:00,05a - Food and Beverage Manufacturing,US,,AMER-MM-CP,0052T00000DUfWqQAL
+0012T00001zjszglLe,desert ostrich hums corporation,2019-10-20 18:44:34+00:00,"10 - Finance, Insurance",CA,ON,AMER-MM,0052T00000CAexUQAT
+0012T00001K2M9AzIK,become morning,2019-10-20 18:37:13+00:00,07a - Auto Sales/Rental,US,GA,ROW,0052T00000CT6RsQAL
+0012T00001EtLjDUQY,pail defence wave co,2018-08-23 11:24:34+00:00,07 - Retail,US,,AMER-ENT-CP,0052T00000Di3VqQAJ
+0012T00001NwOp8Zwj,duckies kakapo,2020-12-13 09:10:53+00:00,"20 - Public Administration, Federal, State, Local, Police (Catch-all)",US,NV,AMER-MM-SL,0052T00000DAKp2QAH
+0012T00001jXO2SShe,few inc,2019-10-05 02:41:20+00:00,16 - Health Care (Catch-all),US,MO,AMER-ENT-CP,0052T00000DcevFQAR
+0012T00001cjq3eMA9,eight forest corp,2019-10-04 21:48:56+00:00,"10 - Finance, Insurance",US,VT,AMER-MM-CP,0052T00000DUfXFQA1
+0012T000010Z0ps2S1,de turtles,2019-10-04 21:49:32+00:00,"11 - Real Estate, Rental, Leasing",US,NC,AMER-MM-CP,0052T00000DhmIuQAJ
+0012T000013SBB6IWO,double backgammon plastered university,2019-10-04 21:43:47+00:00,07 - Retail,US,IL,AMER-ENT-CP,0052T00000Dhj04QAB
+0012T00001QMn1jqRy,flying da school,2019-10-04 21:47:48+00:00,"12 - Professional, Scientific, Technical Services",GB,,EMEA-MM,0052T00000DAo53QAD
+0012T00001LFYvdYwp,seems tuatara cover,2021-04-14 10:36:29+00:00,05 - General Manufacturing (Catch-all),US,,AMER-GBL,005f4000000OfmGAAS
+0012T000015G2bkOLw,too co,2019-10-04 21:38:51+00:00,13 - Education - Elementary & Secondary Schools,US,,AMER-MM-SL,0052T00000DhugoQAB
+0012T00001OrAA90g3,pliers school,2022-02-21 20:07:28+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CB0PFQA1
+0012T0000112mL62TU,broom tank inc,2021-03-19 12:19:16+00:00,04 - Construction,US,,AMER-MM-CP,0052T00000CBShbQAH
+0012T00001dh4Ch0LV,elephant school,2019-10-15 10:05:24+00:00,05 - General Manufacturing (Catch-all),US,CA,AMER-MM-CP,0052T00000DhrdTQAR
+0012T00001Zw6yb37F,sees school,2020-11-19 07:33:31+00:00,"11 - Real Estate, Rental, Leasing",US,AZ,AMER-MM-CP,0052T00000CBMaAQAX
+0012T00001wG7yTEBK,bullfrog foliage koi university,2022-03-03 18:04:42+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000CArVxQAL
+0012T00001Dec17t6Z,egg remember rhea inc,2019-10-04 21:44:25+00:00,07 - Retail,US,MD,AMER-MM-CP,0052T00000CBShgQAH
+0012T00001iJNZskcn,wondered university,2023-05-01 17:11:29+00:00,Missing NAICS,US,,AMER-MM-CP,0052T00000DYcb7QAD
+0012T00001aJMiHyQL,lying corporation,2019-10-04 21:44:43+00:00,06 - Wholesale,US,FL,AMER-MM-CP,0052T00000CAnS6QAL
+0012T00001g0iIqiNF,scampering lesothosaurus every,2019-10-04 21:44:52+00:00,"19 - Grantmaking, Civic, Professional, etc. Organizations (Non-Profit Catch-all)",US,,AMER-MM-CP,0052T00000CB0zmQAD
+0012T00001AamVWW7f,obey co,2021-04-13 14:33:20+00:00,"12 - Professional, Scientific, Technical Services",US,,AMER-MM-CP,0052T00000CBUB8QAP
+001f400000lARzdAAG,less school,2018-12-14 17:18:24+00:00,05 - General Manufacturing (Catch-all),US,CA,AMER-GBL,0052T00000CSngyQAD
+0012T00001lloOIIHJ,tooth stung acrocanthosaurus co,2021-07-20 17:21:23+00:00,"14 - Education - Colleges, Junior Colleges, Graduate Schools",US,,AMER-MM-SL,0052T00000DhrdSQAR
+0012T00001n2F2kG1e,hours incorporated,2020-08-29 01:37:37+00:00,"11 - Real Estate, Rental, Leasing",US,CA,AMER-MM-CP,0052T00000DZO9ZQAX
+0012T00001ioMxNJ7q,bottles university,2019-10-04 21:54:51+00:00,16d - Assisted Living Facilities,CA,ON,AMER-ENT,0052T00000DZbNPQA1
